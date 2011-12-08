@@ -7,9 +7,9 @@ AC_PREREQ(2.54)
 # if backwards compatibility has been broken,
 # set LIBMATECANVAS_BINARY_AGE and LIBMATECANVAS_INTERFACE_AGE to 0.
 #
-m4_define([libmatecanvas_major_version], [2011])
-m4_define([libmatecanvas_minor_version], [12])
-m4_define([libmatecanvas_micro_version], [01])
+m4_define([libmatecanvas_major_version], [1])
+m4_define([libmatecanvas_minor_version], [1])
+m4_define([libmatecanvas_micro_version], [0])
 m4_define([libmatecanvas_interface_age], [2])
 # If you need a modifier for the version number.
 # Normally empty, but can be used to make "fixup" releases.

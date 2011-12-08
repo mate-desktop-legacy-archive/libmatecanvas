@@ -2,7 +2,7 @@
 
 # fill it, edit "control" file  too
 pkgname=libmatecanvas
-pkgver=2011.12.01
+pkgver=1.1.0
 pkgrel=1
 pkgdesc="The MATE Canvas library"
 depends=('libart-2.0-2' 'libatk1.0-0' 'libc6' 'libcairo2' 'libfontconfig1'
