@@ -57,10 +57,10 @@
 
 	* pt_BR.po: Updated Brazilian Portuguese translation by Vladimir Melo.
 
-2008-09-19  Mugurel Tudor  <mugurelu@mate.ro>
+2008-09-19  Mugurel Tudor  <mugurelu@gnome.ro>
 
 	* ro.po: Updated Romanian translation by
-	Mişu Moldovan <dumol@mate.ro>
+	Mişu Moldovan <dumol@gnome.ro>
 
 2008-09-19  Krishnababu K  <kkrothap@redhat.com>
 
@@ -187,7 +187,7 @@
 	* mr.po: Added Marathi translations given by Sandeep Shedmake
 	* LINGUAS: Added an entry for mr
 
-2007-11-14  Matej Urbančič <mateju@svn.gnome.org>
+2007-11-14  Matej Urbančič <gnomeju@svn.gnome.org>
 
 	* sl.po: Updated Slovenian Translation.
 
@@ -262,10 +262,10 @@
 
 	* sr.po, sr@Latn.po: Updated Serbian translation.
 
-2007-03-11  Mugurel Tudor  <mugurelu@mate.ro>
+2007-03-11  Mugurel Tudor  <mugurelu@gnome.ro>
 
 	* ro.po: Updated Romanian translation by
-	Mişu Moldovan <dumol@mate.ro>
+	Mişu Moldovan <dumol@gnome.ro>
 
 2007-03-07  Simos Xenitellis  <simos@gnome.org>
 
@@ -336,7 +336,7 @@
 
 	* uk.po: Update Ukrainian translation.
 
-2007-01-18  Gabor Kelemen  <kelemeng@mate.hu>
+2007-01-18  Gabor Kelemen  <kelemeng@gnome.hu>
 
 	* hu.po: Translation updated.
 
@@ -437,10 +437,10 @@
 
 	* ne.po: Updated Nepali Translation
 
-2006-09-04  Mugurel Tudor  <mugurelu@mate.ro>
+2006-09-04  Mugurel Tudor  <mugurelu@gnome.ro>
 
 	* ro.po: Updated Romanian translation by
-	Mişu Moldovan <dumol@mate.ro>
+	Mişu Moldovan <dumol@gnome.ro>
 
 2006-08-20  Ani Peter <peter.ani@gmail.com>
 
@@ -471,10 +471,10 @@
 
         * or.po: Added Oriya translation.
 
-2006-03-13  Mugurel Tudor  <mugurelu@mate.ro>
+2006-03-13  Mugurel Tudor  <mugurelu@gnome.ro>
 
 	* ro.po: Updated Romanian translation
-	by Mişu Moldovan <dumol@mate.ro>
+	by Mişu Moldovan <dumol@gnome.ro>
 
 2006-02-23  Clytie Siddall <clytie@riverland.net.au>
 
@@ -517,10 +517,10 @@
 
 	* ca.po: Updated Catalan translation.
 
-2005-08-15  Mugurel Tudor  <mugurelu@mate.ro>
+2005-08-15  Mugurel Tudor  <mugurelu@gnome.ro>
 
 	* ro.po: Updated Romanian translation
-	by Mişu Moldovan <dumol@mate.ro>
+	by Mişu Moldovan <dumol@gnome.ro>
 
 2005-07-09  Alexander Shopov  <ash@contact.bg>
 
@@ -597,7 +597,7 @@
 
 	* ne.po: Updated Nepali Translation
 
-2004-08-26  Laszlo Dvornik  <dvornik@mate.hu>
+2004-08-26  Laszlo Dvornik  <dvornik@gnome.hu>
 
 	* hu.po: Updated Hungarian translation.
 
@@ -760,7 +760,7 @@
 
 	* sq.po: Fixed Albanian translation.
 
-2004-02-18  Andras Timar  <timar@mate.hu>
+2004-02-18  Andras Timar  <timar@gnome.hu>
 
 	* hu.po: Updated Hungarian translation.
 
@@ -800,7 +800,7 @@
 
 	* az.po: Translation updated.
 
-2004-02-05  Takeshi AIHANA <aihana@mate.gr.jp>
+2004-02-05  Takeshi AIHANA <aihana@gnome.gr.jp>
 
 	* ja.po: Updated Japanese translation.
 
@@ -852,7 +852,7 @@
 
 	* es.po: Updated Spanish translation.
 
-2004-01-24  Christian Neumair  <chris@mate-de.org>
+2004-01-24  Christian Neumair  <chris@gnome-de.org>
 
 	* de.po: Updated German translation.
 
@@ -879,7 +879,7 @@
 2004-01-23  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
 
 	* ru.po: Updated Russian translation
-	from Russian team <mate-cyr@gnome.org>.
+	from Russian team <gnome-cyr@gnome.org>.
 
 2004-01-20  Kjartan Maraas  <kmaraas@gnome.org>
 
@@ -983,7 +983,7 @@
 	* eo.po: Added Esperanto translation
 	from Charles Voelger <cvoelger@dweasel.com>
 
-2003-07-10  Andras Timar  <timar@mate.hu>
+2003-07-10  Andras Timar  <timar@gnome.hu>
 
 	* hu.po: Updated Hungarian translation.
 
@@ -1007,7 +1007,7 @@
 2003-06-16  Taneem Ahmed  <taneem@eyetap.org>
 
 	* bn.po: Added Bangla translation by Sayamindu
-	of Ankur group <mate-translation@bengalinux.org>.
+	of Ankur group <gnome-translation@bengalinux.org>.
 
 2003-06-13  Guntupalli Karunakar  <karunakar@freedomink.org>
 
@@ -1071,7 +1071,7 @@
 
         * ga.po: Added Irish Translation.
 
-2003-03-02  Takeshi AIHANA <aihana@mate.gr.jp>
+2003-03-02  Takeshi AIHANA <aihana@gnome.gr.jp>
 
 	* ja.po: Updated Japanese translation.
 
@@ -1121,7 +1121,7 @@
 2003-01-09  Dmitry G. Mastrukov  <dmitry@taurussoft.org>
 
 	* ru.po: updated Russian translation
-	from Russian team <mate-cyr@gnome.org>.
+	from Russian team <gnome-cyr@gnome.org>.
 
 2003-01-07  Daniel Yacob <locales@geez.org>
 
@@ -1174,7 +1174,7 @@
 
 	* et.po: Updated Estonian translation.
 
-2002-08-13  Andras Timar  <timar@mate.hu>
+2002-08-13  Andras Timar  <timar@gnome.hu>
 
         * hu.po: Updated Hungarian translation.
 
@@ -1185,7 +1185,7 @@
 2002-07-28  Christophe Merlet  <christophe@merlet.net>
 
 	* fr.po: Updated French translation from contribution of
-	Sun G11n <mate_int_l10n@ireland.sun.com>.
+	Sun G11n <gnome_int_l10n@ireland.sun.com>.
 
 2002-07-05  Manuel Borchers  <webmaster@matronix.de>
 
@@ -1212,7 +1212,7 @@
 
 	* es.po: Juan Manuel García Molina <juanma_gm@wanadoo.es>
 
-2002-06-02  Carlos Perelló Marín <carlos@mate-db.org>
+2002-06-02  Carlos Perelló Marín <carlos@gnome-db.org>
 
 	* es.po: Recoded as UTF8
 
@@ -1266,10 +1266,10 @@
 
 	* da.po: Updated Danish translation.
 
-2002-05-18  Zbigniew Chyla  <cyba@mate.pl>
+2002-05-18  Zbigniew Chyla  <cyba@gnome.pl>
 
 	* pl.po: Added Polish translation by
-	MATE PL Team <translators@mate.pl>.
+	MATE PL Team <translators@gnome.pl>.
 
 2002-05-17  Kjartan Maraas  <kmaraas@gnome.org>
 
@@ -1353,10 +1353,10 @@
 
 	* de.po: Added German translation.
 
-2002-02-28  Zbigniew Chyla  <cyba@mate.pl>
+2002-02-28  Zbigniew Chyla  <cyba@gnome.pl>
 
 	* pl.po: Added Polish translation by
-	MATE PL Team <translators@mate.pl>.
+	MATE PL Team <translators@gnome.pl>.
 
 2002-02-19  Takayuki KUSANO  <AE5T-KSN@asahi-net.or.jp>
 
