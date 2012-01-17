@@ -1958,6 +1958,8 @@ static gint mate_canvas_expose              (GtkWidget        *widget,
 					      GdkEventExpose   *event);
 static gboolean mate_canvas_key             (GtkWidget        *widget,
 					      GdkEventKey      *event);
+static gboolean mate_canvas_scroll          (GtkWidget        *widget,
+					      GdkEventScroll   *event);
 static gint mate_canvas_crossing            (GtkWidget        *widget,
 					      GdkEventCrossing *event);
 static gint mate_canvas_focus_in            (GtkWidget        *widget,
@@ -2098,6 +2100,7 @@ mate_canvas_class_init (MateCanvasClass *klass)
 	widget_class->leave_notify_event = mate_canvas_crossing;
 	widget_class->focus_in_event = mate_canvas_focus_in;
 	widget_class->focus_out_event = mate_canvas_focus_out;
+	widget_class->scroll_event = mate_canvas_scroll;
 
 	klass->draw_background = mate_canvas_draw_background;
 	klass->render_background = NULL;
@@ -2900,6 +2903,24 @@ mate_canvas_motion (GtkWidget *widget, GdkEventMotion *event)
 	return emit_event (canvas, (GdkEvent *) event);
 }
 
+static gboolean
+mate_canvas_scroll (GtkWidget *widget, GdkEventScroll *event)
+{
+	MateCanvas *canvas;
+
+	g_return_val_if_fail (MATE_IS_CANVAS (widget), FALSE);
+	g_return_val_if_fail (event != NULL, FALSE);
+
+	canvas = MATE_CANVAS (widget);
+
+	if (event->window != canvas->layout.bin_window)
+		return FALSE;
+
+	canvas->state = event->state;
+	pick_current_item (canvas, (GdkEvent *) event);
+	return emit_event (canvas, (GdkEvent *) event);
+}
+
 /* Key event handler for the canvas */
 static gboolean
 mate_canvas_key (GtkWidget *widget, GdkEventKey *event)
@@ -3145,8 +3166,6 @@ paint (MateCanvas *canvas)
 	gint n_rects, i;
 	ArtIRect visible_rect;
 	GdkRegion *region;
-	GdkEventExpose expose_event;
-	GdkRectangle region_area;
 
 	/* Extract big rectangles from the microtile array */
 

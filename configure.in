@@ -205,7 +205,7 @@ AC_PATH_PROG(GLIB_GENMARSHAL, glib-genmarshal)
 dnl
 dnl Check for gtk-doc
 dnl
-GTK_DOC_CHECK([1.0])
+GTK_DOC_CHECK([1.0],[--flavour no-tmpl])
 DISTCHECK_CONFIGURE_FLAGS="--enable-gtk-doc"
 AC_SUBST(DISTCHECK_CONFIGURE_FLAGS)
 
