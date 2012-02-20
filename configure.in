@@ -8,7 +8,7 @@ AC_PREREQ(2.54)
 # set LIBMATECANVAS_BINARY_AGE and LIBMATECANVAS_INTERFACE_AGE to 0.
 #
 m4_define([libmatecanvas_major_version], [1])
-m4_define([libmatecanvas_minor_version], [1])
+m4_define([libmatecanvas_minor_version], [2])
 m4_define([libmatecanvas_micro_version], [0])
 m4_define([libmatecanvas_interface_age], [2])
 # If you need a modifier for the version number.
@@ -71,7 +71,7 @@ IT_PROG_INTLTOOL([0.35.0])
 
 MATE_COMPILE_WARNINGS
 
-GETTEXT_PACKAGE=libmatecanvas-2.0
+GETTEXT_PACKAGE=libmatecanvas
 AC_SUBST(GETTEXT_PACKAGE)
 AC_DEFINE_UNQUOTED(GETTEXT_PACKAGE,"$GETTEXT_PACKAGE",[Gettext package])
 
