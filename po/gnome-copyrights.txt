@@ -1,0 +1,988 @@
+========== am.po ==========
+# Translations into the Amharic Language.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+# Ge'ez Frontier Foundation <locales@geez.org>, 2002.
+#
+#
+
+
+
+
+========== ang.po ==========
+# Old English Translation of libmatecanvas.
+# Copyright (C) 2004 The MATE Foundation
+# This file is distributed under the same license as the libmatecanvas package.
+# James Johnson <modean52@comcast.net>, David Lodge <dave@cirt.net>, 2004.
+#
+
+
+
+
+========== ar.po ==========
+# translation of libmatecanvas.HEAD.po to Arabic
+# Sayed Jaffer Al-Mosawi <mosawi@arabeyes.org>, 2002.
+# Isam Bayazidi <bayazidi@arabeyes.org>, 2002.
+# Djihed Afifi <djihed@gmail.com>, 2006.
+# Khaled Hosny <khaledhosny@eglug.org>, 2007.
+# translation of libmatecanvas.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+
+
+
+
+========== as.po ==========
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2009.
+
+
+
+
+========== ast.po ==========
+# Asturian translation for libmatecanvas.
+# Copyright (C) 2010 libmatecanvas's COPYRIGHT HOLDER
+# This file is distributed under the same license as the libmatecanvas package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+
+
+
+========== az.po ==========
+# translation of libmatecanvas.HEAD.az.po to Azerbaijani Turkish
+# Copyright (C) 2001, 2004 Free Software Foundation, Inc.
+# Mətin Əmirov <metin@karegen.com>, 2001, 2004.
+#
+
+
+
+
+========== be.po ==========
+# Беларускі пераклад libmatecanvas.HEAD.
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER.
+# Ales Nyakhaychyk <nab@mail.by>, 2004.
+# Vital Khilko <vk@altlinux.ru>, 2005.
+#
+
+
+
+
+========== bg.po ==========
+# Bulgarian translation for libmatecanvas.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Alexander Shopov <al_shopov@web.bg>, 2002.
+# Rostislav Raykov <zbrox@i-space.org>, 2004.
+# Alexander Shopov <ash@contact.bg>, 2005.
+#
+
+
+
+
+========== bn.po ==========
+# Bengali translation of libmatecanvas
+# This file is distributed under the same license as the libmatecanvas package.
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Sayamindu Dasgupta <unmadindu@Softhome.net>, 2003
+# Maruf Ovee <maruf@ankur.org.bd>, 2009.
+# Israt Jahan <israt@ankur.org.bd>, 2010.
+#
+
+
+
+
+========== bn_IN.po ==========
+# translation of bn_IN.po to Bengali INDIA
+# Bengali translation of libmatecanvas
+# This file is distributed under the same license as the libmatecanvas package.
+# Copyright (C) 2003, 2009 Free Software Foundation, Inc.
+#
+# Sayamindu Dasgupta <unmadindu@Softhome.net>, 2003.
+# Runa Bhattacharjee <runab@redhat.com>, 2009.
+
+
+
+
+========== br.po ==========
+# Breton translation for libmatecanvas
+# Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+# This file is distributed under the same license as the libmatecanvas package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+#
+
+
+
+
+========== bs.po ==========
+# Bosnian translation of libmatecanvas
+# This file is distributed under the same license as the libmatecanvas package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Kenan Hadžiavdić <kenanh@frisurf.no>, 2004.
+#
+
+
+
+
+========== ca.po ==========
+# Catalan translation of libmatecanvas.
+# Copyright © 2002, 2004, 2005 Free Software Foundation, Inc.
+# Jordi Mallach <jordi@sindominio.net>, 2002, 2004, 2005.
+#
+
+
+
+
+========== ca@valencia.po ==========
+# translation of libmatecanvas.master.po to catalan
+# Catalan translation of libmatecanvas.
+# Copyright © 2002, 2004, 2005, 2009 Free Software Foundation, Inc.
+#
+# Jordi Mallach <jordi@sindominio.net>, 2002, 2004, 2005.
+# Carles Ferrando Garcia <carles.ferrando@gmail.com>, 2009.
+
+
+
+
+========== crh.po ==========
+# Qırımtatarca (Qırım Türkçe) libmatecanvas.
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Reşat SABIQ <tilde.birlik@gmail.com>, 2008, 2009.
+
+
+
+
+========== cs.po ==========
+# Czech translation of libmatecanvas.
+# Copyright (C) 2004 Miloslav Trmac <mitr@volny.cz>.
+# This file is distributed under the same license as the libmatecanvas package.
+# Miloslav Trmac <mitr@volny.cz>, 2002, 2004.
+# Lucas Lommer <llommer@svn.gnome.org>, 2008, 2010.
+#
+
+
+
+
+========== cy.po ==========
+# libgnomcanvas yn Gymraeg.
+# This file is distributed under the same license as the libmatecanvas
+# package.
+# Dafydd Harries <daf@muse.19inch.net>, 2003 2004
+# Iestyn Pryce <dylunio@gmail.com>, 2009.
+
+
+
+
+========== da.po ==========
+# Danish translation of mate-libs.
+# Copyright (C) 1998-2007 Free Software Foundation, Inc.
+# Keld Simonsen <keld@dkuug.dk>, 2001.
+# Kjartan Maraas <kmaraas@gnome.org>, 1998-2001.
+# Ole Laursen <olau@hardworking.dk>, 2002, 04.
+# Kenneth Nielsen <k.nielsen81@gmail.com>, 2007.
+#
+
+
+
+
+========== de.po ==========
+# German libmatecanvas translation.
+# Copyright (C) 2002-2004 Free Software Foundation, Inc.
+# Christian Meyer <chrisime@gnome.org>, 2002.
+# Christian Neumair <chris@mate-de.org>, 2004.
+# Hendrik Richter <hendrikr@gnome.org>, 2007.
+#
+
+
+
+
+========== dz.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+
+
+
+========== el.po ==========
+# translation of el.po to 
+# translation of el.po to Greek
+# Greek translation of libmatecanvas.
+# Copyright (C) 2002 Free Software Foundation.
+#
+# simos: 30 messages (approx), initial translation.
+# kostas: 94 messages, 07Nov2002, completed translation.
+# simos: 94 messages, 07Nov2002, translation review.
+# kostas: 05Jan2003, updated translatiom for Mate2.1x.
+# Simos Xenitellis <simos@hellug.gr>, 2002.
+# Kostas Papadimas <pkst@gnome.org>, 2002,2003,2004.
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2004.
+#
+
+
+
+
+========== en@shaw.po ==========
+# Shavian translation for libmatecanvas.
+# Copyright (C) 2009 The Mate Foundation.
+# Thomas Thurman <tthurman@gnome.org>, 2009.
+
+
+
+
+========== en_CA.po ==========
+# English/Canada translation of libmatecanvas
+# Copyright (C) 2004 Adam Weinberger and the MATE Foundation
+# This file is distributed under the same license as the libmatecanvas package.
+# Adam Weinberger <adamw@gnome.org>, 2004.
+#
+
+
+
+
+========== en_GB.po ==========
+# English (British) translation.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the LIBMATECANVAS package.
+# Abigail Brady <morwen@evilmagic.org>, Bastien Nocera <hadess@hadess.net>
+# Gareth Owen <gowen72@yahoo.com> 2004.
+#
+
+
+
+
+========== eo.po ==========
+# Esperanto translation for libmatecanvas.
+# Copyright (C) 2003 Free Software Foundation
+# This file is distributed under the same license as the libmatecanvas package.
+# Charles VOELGER <cvoelger@dweasel.com>, 2003.
+# Kristjan SCHMIDT <kristjan.schmidt@googlemail.com>, 2010.
+#
+
+
+
+
+========== es.po ==========
+# translation of libmatecanvas.HEAD.po to Español
+# Translation into spanish of libmatecanvas.
+# Copyright (C) 2001, 2003, 2004, 2008 Free Software Foundation, Inc.
+#
+# Héctor García Álvarez <hector@scouts-es.org>, 2001.
+# Juan Manuel García Molina <juanma_gm@wanadoo.es>, 2002.
+# Francisco Javier F. Serrador <serrador@arrakis.es>, 2003.
+# Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2004.
+# Jorge González <jorgegonz@svn.gnome.org>, 2008.
+
+
+
+
+========== et.po ==========
+# libmatecanvas eesti tõlge.
+# Estonian translation of libmatecanvas.
+#
+# Copyright (C) 2002, 2004, 2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Tõivo Leedjärv <toivo@linux.ee>, 2002.
+# Aarne Männik <amannik@hot.ee>, 2004.
+# Ivar Smolin <okul at linux ee>, 2006.
+#
+
+
+
+
+========== eu.po ==========
+# translation of eu.po to Basque
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Hizkuntza Politikarako Sailburuordetza <hizpol@ej-gv.es>, 2004.
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2004, 2007, 2010.
+# Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2007.
+
+
+
+
+========== fa.po ==========
+# Persian translation of libmatecanvas
+# Copyright (C) 2003, 2005 Sharif FarsiWeb, Inc.
+# Roozbeh Pournader <roozbeh@farsiweb.info>, 2003.
+# Masood Ahmadzadeh <masoud@bamdad.org>, 2005.
+# Meelad Zakaria <meelad@farsiweb.info>, 2005.
+
+
+
+
+========== fi.po ==========
+# libmatecanvas Finnish translation
+# Suomennos: http://mate-fi.sourceforge.net/
+#
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# Pauli Virtanen <pauli.virtanen@hut.fi>, 2000-2002.
+#
+
+
+
+
+========== fr.po ==========
+# French translation of libmatecanvas.
+# Copyright (C) 2001-2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Christophe Merlet (RedFox) <redfox@redfoxcenter.org>, 2001-2006.
+# Sun G11n <mate_int_l10n@ireland.sun.com>, 2002.
+# Stéphane Raimbault <stephane.raimbault@gmail.com>, 2007.
+# Robert-André Mauchin <zebob.m@pengzone.org>, 2007.
+#
+
+
+
+
+========== ga.po ==========
+# Irish Translation of libmatecanvas
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Paul Duffy <dubhthach@frink.nuigalway.ie>, 2003.
+# 
+
+
+
+
+========== gl.po ==========
+# translation of gl.po to Galego
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2010 Fran Diéguez
+#
+# Ignacio Casal Quinteiro <nacho.resa@gmail.com>, 2005.
+# Ignacio Casal Quinteiro <icq@svn.gnome.org>, 2008.
+# Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
+# Fran Diéguez <frandieguez@ubuntu.com>, 2010.
+#
+
+
+
+
+========== gu.po ==========
+# translation of libmatecanvas.HEAD.gu.po to Gujarati
+# Copyright (C) 2004, 2006 Free Software Foundation, Inc.
+# MagNet <magnet@magnet-i.com>, 2004.
+# Ankit Patel <ankit@redhat.com>, 2004, 2006.
+
+
+
+
+========== he.po ==========
+# translation of libmatecanvas.HEAD.he.po to Hebrew
+# translation of libmatecanvas.mate-2-0.po to Hebrew
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Gil 'Dolfin' Osher <dolfin@rpg.org.il>, 2002.
+# Gil Osher <dolfin@rpg.org.il>, 2004.
+#
+
+
+
+
+========== hi.po ==========
+# translation of hi.po to Hindi
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+#
+# Anurag Seetha <anuragseetha@yahoo.com>, 2003.
+# Rajesh Ranjan <rranjan@redhat.com>, 2009.
+
+
+
+
+========== hr.po ==========
+# Translation of libmatecanvas to Croatiann
+# Copyright (C) Croatiann team
+# Translators: Automatski Prijevod <>,Robert Sedak <robert.sedak@sk.tel.hr>,
+
+
+
+
+========== hu.po ==========
+# Hungarian translation of libmatecanvas.
+# Copyright (C) 2002, 2003, 2004, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Peter Doma <zelin@pointernet.hu>, 2002.
+# Andras Timar <timar@mate.hu>, 2003, 2004.
+# Laszlo Dvornik <dvornik@mate.hu>, 2004.
+# Gabor Kelemen <kelemeng@mate.hu>, 2007.
+
+
+
+
+========== id.po ==========
+# Indonesian translation of libmatecanvas.
+# Copyright (C) 2005 THE lbmatecanvas'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Mohammad DAMT <mdamt@bisnisweb.com>, 2005.
+# Dirgita <dirgitadevina@gmail.com>, 2010.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2010.
+
+
+
+
+========== is.po ==========
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Samúel Jón Gunnarsson  <sammi@techattack.nu>, 2003
+
+
+
+
+========== it.po ==========
+# Italian localization for libmatecanvas
+# Copyright (C) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009 Free Software Foundation, Inc.
+# Christopher R. Gabriel <cgabriel@cgabriel.org>, 2001.
+# Francesco Marletta <francesco.marletta@tiscali.it>, 2007, 2008, 2009.
+#
+
+
+
+
+========== ja.po ==========
+# libmatecanvas ja.po.
+# Copyright (C) 1998-2004,2007 Free Software Foundation, Inc.
+# Yukihiro Nakai <Nakai@abricot.co.jp>, 1998,2001.
+# Eiichiro ITANI <emu@ceres.dti.ne.jp>, 1999.
+# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 1999-2002.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2003-2004,2007.
+#
+
+
+
+
+========== ka.po ==========
+# translation of ka.po to Georgian
+# Georgian translation for LibMateCanvas.
+# Copyright © 2006 Ubuntu Georgian Translators.
+#
+# Gia Shervashidze <giasher@telenet.ge>, 2006.
+# Vladimer Sichinava ვლადიმერ სიჭინავა <vsichi@gnome.org>, 2007.
+
+
+
+
+========== kn.po ==========
+# translation of libmatecanvas.HEAD.kn.po to Kannada
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Shankar Prasad <svenkate@redhat.com>, 2009.
+
+
+
+
+========== ko.po ==========
+# Korean messages for libmatecanvas
+# Changwoo Ryu <cwryu@debian.org>, 2002, 2004, 2007.
+#
+
+
+
+
+========== ku.po ==========
+# translation of libmatecanvas.mate-2-12.po to Kurdish
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Erdal Ronahi <erdal.ronahi@gmail.com, pckurd@hotmail.com>, 2005.
+#
+
+
+
+
+========== li.po ==========
+# Limburgish (li) translation of mate-libs.
+# Copyright (C) 1998-2001 Free Software Foundation, Inc.
+# Mathieu van Woerkom <mathieu@brabants.org>, 2003
+#
+
+
+
+
+========== lt.po ==========
+# translation of lt.po to Lithuanian
+# Lithuanian translation of libmatecanvas
+# Copyright (C) 2003, 2007 Free Software Foundation, Inc.
+#
+#
+# Tomas Kuliavas <tokul@users.sourceforge.net>, 2003-2004.
+# Gintautas Miliauskas <gintas@akl.lt>, 2007.
+
+
+
+
+========== lv.po ==========
+# translation of lv.po to Latvian
+# libmateconvas for Latvian.
+# Copyright (C) 2002 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Peteris Krisjanis <peteris.krisjanis@os.lv>, 2002.
+# Raivis Dejus <orvils@gmail.com>, 2006, 2009.
+# Peteris Krisjanis <pecisk@gmail.com>, 2010.
+
+
+
+
+========== mai.po ==========
+# translation to libmatecanavas to Maithili
+# Copyright (C) 2006 The MATE Foundation
+# This file is distributed under the same license as the PACKAGE package.
+# BOSS GNU/Linux <bosslinux@cdac.in>, 2008.
+
+
+
+
+========== mg.po ==========
+# MALAGASY TRANSLATION OF LIBMATECANVAS.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Thierry Randrianiriana <randrianiriana@gmail.com>, 2007.
+
+
+
+
+========== mk.po ==========
+# translation of libmatecanvas.HEAD.mk.po to
+# translation of libmatecanvas.HEAD.mk.po to Macedonian
+# translation of libmatecanvas.HEAD.mk.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
+#
+# Bozidar Proevski <bobibobi@freemail.com.mk>, 2002,2003.
+# Ivan Stojmirov <stojmir@linux.net.mk>, 2003.
+# Misa Popovic <stomak81@freemail.com.mk>, 2003.
+# Vladislav Bidikov <bidikovi@mail.com.mk>, 2003.
+# Jovan Naumovski <jovan@lugola.net>, 2006.
+
+
+
+
+========== ml.po ==========
+# translation of libmatecanvas.HEAD.ml.po to Malayalam
+# This file is distributed under the same license as the libmatecanvas package.
+# Copyright (C) 2003-2008 libmatecanvas'S COPYRIGHT HOLDER.
+# FSF-India <locale@gnu.org.in>, 2003.
+# Suresh Valiya Parambil <mvpsuresh@yahoo.com>, 2003.
+# Ani Peter <apeter@redhat.com>, 2006.
+# Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>, 2008.
+# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008
+
+
+
+
+========== mn.po ==========
+# translation of mn.po to Mongolian
+# This file is distributed under the same license as the PACKAGE package.
+# Tegshbayar <zahiatotbr@msn.com>
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Sanlig Badral <badral@chinggis.com>, 2003.
+# Sanlig Badral <badral@openmn.org>, 2004, 2008.
+
+
+
+
+========== mr.po ==========
+# translation of libmatecanvas.HEAD.mr.po to marathi
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# sandeep shedmake <sandeep.shedmake@gmail.com>, 2007.
+
+
+
+
+========== ms.po ==========
+# [       Ruang untuk disewa                    ]
+# Copyright (C) 2002-2004 Free Software Foundation, Inc.
+# Hasbullah Bin Pit (sebol)<sebol@my-penguin.org>, 2002-2004
+
+
+
+
+========== nb.po ==========
+# Norwegian (bokmål) translation of libmatecanvas.
+# Copyright (C) 1998-2003 Free Software Foundation, Inc.
+# Kjartan Maraas <kmaraas@gnome.org>, 1998-2003.
+#
+
+
+
+
+========== ne.po ==========
+# translation of libmatecanvas.HEAD.ne.po to Nepali
+# This file is distributed under the same license as the libmatecanvas package.
+# Pawan Chitrakar  <pawan@nplinux.org>
+#
+# Bishnu Adhikari <bsn_adk@hotmail.com>, 2005.
+# Jaydeep Bhusal <zaydeep@hotmail.com>, 2005.
+# Mahesh subedi <submanesh@hotmail.com>, 2006.
+# Nabin Gautam <nabin@mpp.org.np>, 2007.
+
+
+
+
+========== nl.po ==========
+# Dutch translation of libmatecanvas
+# Copyright (C) 1998-2001 Free Software Foundation, Inc.
+#
+# Dirk-Jan C. Binnema <djcb@djcbsoftware.nl>, 2001
+# Tino Meinen <a.t.meinen@chello.nl>, 2004
+# Vincent van Adrighem <adrighem@gnome.org>, 2004
+# Wouter Bolsterlee <wbolster@gnome.org>, 2006
+#
+
+
+
+
+========== nn.po ==========
+# translation of nn.po to Norwegian Nynorsk
+# Norwegian (nynorsk) translation of mate-libs.
+# Copyright (C) 1998,1999,2000, 2003, 2004, 2008 Free Software Foundation, Inc.
+#
+# Kjartan Maraas <kmaraas@gnome.org>, 1998,1999,2000.
+# Åsmund Skjæveland <aasmunds@ulrik.uio.no>, 2003-2008.
+
+
+
+
+========== oc.po ==========
+# Translation of oc.po to Occitan
+# Occitan translation of libmatecanvas.
+# Copyright (C) 2001-2004, 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2006-2008
+
+
+
+
+========== or.po ==========
+# translation of libmatecanvas.HEAD.or.po to Oriya
+# Oriya translation of libmatecanvas.HEAD.pot.
+# Copyright (C) 2005, 2006, 2007, Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+# $Id: or.po,v 1.1 2006/03/23 22:56:05 gmohanty Exp $
+#
+# Gora Mohanty <gora_mohanty@yahoo.co.in>, 2005, 2006.
+# Subhransu Behera <arya_subhransu@yahoo.co.in>, 2007.
+
+
+
+
+========== pa.po ==========
+# translation of libmatecanvas.HEAD.po to Punjabi
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amanpreet Singh Alam <amanlinux@netscape.net>, 2004.
+# A S Alam <aalam@users.sf.net>, 2007.
+
+
+
+
+========== pl.po ==========
+# Copyright (C) 2001-2002 Free Software Foundation, Inc.
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Aktualną wersję tego pliku możesz odnaleźć w repozytorium cvs.mate.pl
+# (:pserver:anonymous@cvs.mate.pl:/matepl, puste hasło)
+# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
+# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas na adres:
+# translators@mate.pl
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+========== pt.po ==========
+# libmatecanvas's Portuguese Translation
+# Copyright © 2001, 2004, 2007 libmatecanvas
+# Distributed under the same licence as the libmatecanvas package
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2001, 2004, 2007.
+#
+
+
+
+
+========== pt_BR.po ==========
+# Brazilian Portuguese translation of libmatecanvas
+# Copyright (C) 2002, 2007 Free Software Foundation, Inc.
+# Gustavo Noronha Silva <kov@debian.org>, 2002.
+# Leonardo Ferreira Fontenelle <leo.fontenelle@gmail.com>, 2007.
+#
+
+
+
+
+========== ro.po ==========
+# Romanian translation for libmatecanvas
+# Copyright (C) 2003 - 2008 Free Software Foundation, Inc.
+# Mișu Moldovan <dumol@mate.ro>, 2003 - 2008.
+#
+
+
+
+
+========== ru.po ==========
+# translation of libmatecanvas.master.ru.po to Russian
+# translation of ru.po to
+# Copyright (C) 2001-2002, 2007, 2010 Free Software Foundation, Inc.
+#
+# Valek Filippov <frob@df.ru>, 2001-2002.
+# Leonid Kanter <leon@asplinux.ru>, 2007.
+# Yuri Kozlov <yuray@komyakino.ru>, 2010.
+
+
+
+
+========== rw.po ==========
+# translation of libmatecanvas to Kinyarwanda.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+# Steve Murphy <murf@e-tools.com>, 2005
+# Steve performed initial rough translation from compendium built from translations provided by the following translators:
+# Philibert Ndandali  <ndandali@yahoo.fr>, 2005.
+# Viateur MUGENZI <muvia1@yahoo.fr>, 2005.
+# Noëlla Mupole <s24211045@tuks.co.za>, 2005.
+# Carole Karema <karemacarole@hotmail.com>, 2005.
+# JEAN BAPTISTE NGENDAHAYO <ngenda_denis@yahoo.co.uk>, 2005.
+# Augustin KIBERWA  <akiberwa@yahoo.co.uk>, 2005.
+# Donatien NSENGIYUMVA <ndonatienuk@yahoo.co.uk>, 2005..
+#
+
+
+
+
+========== sk.po ==========
+# libmatecanvas sk.po
+# Copyright (C) 2001, 2002, 2004, 2008 Free Software Foundation, Inc.
+# Marcel Telka <marcel@telka.sk>, 2001, 2002, 2004, 2008.
+#
+
+
+
+
+========== sl.po ==========
+# Slovenian translations for libmatecanvas.
+# Copyright (C) 2002-2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Andraz Tori <andraz.tori1@guest.arnes.si>, 2002.
+# Matjaž Horvat <m@owca.info>, 2006.
+# Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2009.
+#
+
+
+
+
+========== sq.po ==========
+# Përkthimi i libmatecanvas në shqip.
+# This file is distributed under the same license as the libmatecanvas package.
+# Copyright (C) 2003, 2004, 2007, 2008 Free Software Foundation, Inc.
+#
+# Laurent Dhima <laurenti@alblinux.net>, 2003, 2004, 2007, 2008.
+
+
+
+
+========== sr.po ==========
+# Serbian translation of libmatecanvas
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004, 2005, 2006, 2007.
+#
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Maintainer: Душан Марјановић <mdfk@root.co.yu>
+# Reviewed on 2004-02-01 by: Бранко Ивановић <popeye@one.ekof.bg.ac.yu>
+#
+
+
+
+
+========== sr@ije.po ==========
+# Serbian translation of libmatecanvas
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004.
+#
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Maintainer: Душан Марјановић <mdfk@root.co.yu>
+# Reviewed on 2004-02-01 by: Бранко Ивановић <popeye@one.ekof.bg.ac.yu>
+#
+
+
+
+
+========== sr@latin.po ==========
+# Serbian translation of libmatecanvas
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2003, 2004, 2005, 2006, 2007.
+#
+# This file is distributed under the same license as the libmatecanvas package.
+#
+# Maintainer: Dušan Marjanović <mdfk@root.co.yu>
+# Reviewed on 2004-02-01 by: Branko Ivanović <popeye@one.ekof.bg.ac.yu>
+#
+
+
+
+
+========== sv.po ==========
+# Swedish messages for libmatecanvas.
+# Copyright (C) 2001, 2002, 2004, 2006 Free Software Foundation, Inc.
+# Daniel Nylander <po@danielnylander.se>, 2006.
+# Christian Rose <menthos@menthos.com>, 2001, 2002, 2004.
+#
+# $Id$
+#
+
+
+
+
+========== ta.po ==========
+# Tamil translation of libmatecanvas.po.
+# Copyright (C) 2001, 2002, 2003 Free Software Foundation, Inc.
+# Dinesh Nadarajah <n_dinesh@yahoo.com>, 2001, 2002, 2003.
+# தங்கம் அருண் <thangam.arunx@gmail.com >,  2007
+#
+
+
+
+
+========== te.po ==========
+# translation of te.po to Telugu
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Krishna Babu K <kkrothap@redhat.com>, 2008.
+
+
+
+
+========== th.po ==========
+# Thai translation of libmatecanvas.
+# Copyright (C) 2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the libgnomacanvas package.
+# aka.ape <aka.ape@gmail.com>, 2007.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2007.
+# 
+
+
+
+
+========== tr.po ==========
+# Turkish translation of libmatecanvas2.
+# Copyright (C) 2001-2003 Free Software Foundation, Inc.
+# Görkem Çetin <gorkem@gelecek.com.tr>, 2001.
+# Ömer Fadıl USTA <omer_fad@hotmail.com>, 2001.
+# erkaN <erkaN@linux-sevenler.de>, 2003.
+#
+# Baris Cicek <baris@teamforce.name.tr>, 2004, 2008.
+
+
+
+
+========== tt.po ==========
+# Tatarish translation
+# Albert Fazlí <tatarish.l10n@gmail.com>, 2005.
+#
+
+
+
+
+========== uk.po ==========
+# Ukrainian translation of libmatecanvas.
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Yuriy Syrota <rasta@renome.rovno.ua>, 2001.
+# Maxim Dziumanenko <dziumanenko@gmail.com>, 2004-2007
+#
+
+
+
+
+========== vi.po ==========
+# Vietnamese translation for LibMateCanvas.
+# Copyright © 2006 Mate i18n Project for Vietnamese.
+# Nguyễn Thái Ngọc Duy <pclouds@gmx.net>, 2002.
+# Clytie Siddall <clytie@riverland.net.au>, 2005.
+# 
+
+
+
+
+========== wa.po ==========
+# Translation into the walloon language.
+#
+# Si vos voloz donner on côp di spale pol ratournaedje di Mate (ou des
+# ôtes libes programes) sicrijhoz-mu a l' adresse emile
+# <srtxg@chanae.alphanet.ch>; nos avans co bråmint di l' ovraedje a fé.
+#
+# Copyright (C) 2001 Free Software Foundation, Inc.
+# Pablo Saratxaga <srtxg@chanae.alphanet.ch> 2001
+# Pablo Saratxaga <pablo@walon.org>, 2003, 2004.
+#
+
+
+
+
+========== xh.po ==========
+# Xhosa translation of libmatecanvas
+# Copyright (C) 2005 Canonical Ltd.
+# This file is distributed under the same license as the libmatecanvas package.
+# Translation by Canonical Ltd <translations@canonical.com> with thanks to
+# Translation World CC in South Africa, 2005.
+#
+
+
+
+
+========== yi.po ==========
+# Yiddish version
+# Copyright (C) 2003 Free Software Foundation, Inc.
+# Raphael Finkel <raphael@cs.uky.edu>, 2003.
+#
+
+
+
+
+========== zh_CN.po ==========
+# simplified chinese translation for libmatecanvas.
+# Copyright (C) 2002 Free Software Foundation, Inc.
+# He Qiangqiang <carton@linux.net.cn>, 2002
+# Yang Zhang <zyangmath@gmail.com>, 2007
+# Ni Hui <shuizhuyuanluo@126.com>, 2009
+#
+
+
+
+
+========== zh_HK.po ==========
+# Chinese (Hong Kong) translation for libmatecanvas.
+# Copyright (C) 2001-04, 06, 07 Free Software Foundation, Inc.
+# Abel Cheung <abel@oaka.org>, 2001-04, 06.
+# Woodman Tuen <wmtuen@gmail.com>, 2007.
+#
+
+
+
+
+========== zh_TW.po ==========
+# Chinese (Taiwan) translation for libmatecanvas.
+# Copyright (C) 2001-04, 06, 07 Free Software Foundation, Inc.
+# Abel Cheung <abel@oaka.org>, 2001-04, 06.
+# Woodman Tuen <wmtuen@gmail.com>, 2007.
+#
+
+
+
+
