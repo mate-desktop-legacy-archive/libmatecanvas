@@ -1,43 +1,42 @@
-# Translation of oc.po to Occitan
-# Occitan translation of libmatecanvas.
-# Copyright (C) 2001-2004, 2007 Free Software Foundation, Inc.
-# This file is distributed under the same license as the libmatecanvas package.
-#
-# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2006-2008
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: oc\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-07 10:22+0100\n"
-"PO-Revision-Date: 2007-11-20 14:32+0100\n"
-"Last-Translator: Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>\n"
-"Language-Team: Occitan <ubuntu-l10n-oci@lists.ubuntu.com>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:30+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: oc\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "O"
 
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas.c:2053
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr ""
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Tèxt"
 
@@ -262,150 +261,150 @@ msgstr ""
 msgid "Whether this tag affects font scaling"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:212
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:220
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:228
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Largor"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:236
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Nautor"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:244
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Editable"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:252
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Visible"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:260
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:268
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:276
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:284
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:292
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Justificacion"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:301
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Direccion"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:310
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Sens del tèxt"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Ancora"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:319
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:328
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:337
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:346
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:355
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:364
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr ""
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:373
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr ""

@@ -1,49 +1,47 @@
-# translation of libmatecanvas.HEAD.ml.po to Malayalam
-# This file is distributed under the same license as the libmatecanvas package.
-# Copyright (C) 2003-2008 libmatecanvas'S COPYRIGHT HOLDER.
-# FSF-India <locale@gnu.org.in>, 2003.
-# Suresh Valiya Parambil <mvpsuresh@yahoo.com>, 2003.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Ani Peter <apeter@redhat.com>, 2006.
+# FSF-India <locale@gnu.org.in>, 2003.
 # Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>, 2008.
-# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008
+# Santhosh Thottingal <santhosh.thottingal@gmail.com>, 2008.
+# Suresh Valiya Parambil <mvpsuresh@yahoo.com>, 2003.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas.HEAD.ml\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2008-03-02 04:13+0000\n"
-"PO-Revision-Date: 2008-07-24 22:21+0530\n"
-"Last-Translator: Santhosh Thottingal <santhosh.thottingal@gmail.com>\n"
-"Language-Team: Swathanthra|സ്വതന്ത്ര Malayalam|മലയാളം Computing|കമ്പ്യൂട്ടിങ്ങ് <smc-discuss@googlegroups.com>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:28+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.9.1\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-Language: Malayalam\n"
-"X-Poedit-Country: INDIA\n"
+"Language: ml\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400
-#: ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407
-#: ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "ആന്റിഎലിയാസ് ചെയ്ത"
 
-#: ../libmatecanvas/mate-canvas.c:2053
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "കാന്‍വാസിന്റെ ആന്റിഎലിയാസ് രീതി."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "പദാവലി"
 
@@ -108,7 +106,9 @@ msgid "Font size"
 msgstr "അക്ഷരത്തിന്റെ വലിപ്പം"
 
 #: ../libmatecanvas/mate-canvas-text.c:319
-msgid "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font size)"
+msgid ""
+"Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
+"size)"
 msgstr "അക്ഷരത്തിന്റെ വലിപ്പം (PANGO_SCALE എന്നതിന്റെ പെരുക്കങ്ങളായി ഉദാ. 12 പോയിന്റ് അക്ഷരത്തിന്റെ വലിപ്പത്തിനു് 12*PANGO_SCALE)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
@@ -124,7 +124,8 @@ msgid "Rise"
 msgstr "ഉയര്‍ച്ച"
 
 #: ../libmatecanvas/mate-canvas-text.c:341
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
 msgstr "അടിസ്ഥാനരേഖയ്ക്കു മുകളിലേയ്ക്കുള്ള വാചകത്തിന്റെ നീങ്ങിയിരിപ്പു്"
 
 #: ../libmatecanvas/mate-canvas-text.c:351
@@ -265,151 +266,150 @@ msgstr "തോതു് ഗണം"
 msgid "Whether this tag affects font scaling"
 msgstr "ഈ മുദ്ര തോതിനെ ബാധിയ്ക്കുമോ എന്ന്"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:212
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "പ്രദര്‍ശിപ്പിക്കുന്നതിനുളള പദാവലി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:220
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "X സ്ഥാനം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:228
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Y സ്ഥാനം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "വീതി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:236
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "പദാവലിക്കളത്തിന്റെ വീതി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "ഉയരം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:244
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "പദാവലിക്കളത്തിന്റെ ഉയരം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "ചിട്ടപ്പെടുത്താവുന്നതു്"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:252
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "ഈ റിച്ച് ടെക്സ്റ്റ് ഇനത്തെ പരിഷ്കരിക്കാമോ ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "ദൃശ്യമായതു്"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:260
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "ഈ റിച്ച് ടെക്സ്റ്റ് ഇനം ദൃശ്യമാണോ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "ദൃശ്യമായ സ്ഥാനസൂചി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:268
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "ഈ സ്ഥാനസൂചി റിച്ച് ടെക്സ്റ്റ് ഇനത്തില്‍ ദൃശ്യമാണോ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "മിന്നുന്ന സ്ഥാനസൂചി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:276
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "സ്ഥാനസൂചി ഈ റിച്ച് ടെക്സ്റ്റ് ഇനത്തില്‍ മിന്നുന്നുണ്ടോ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "ഉയരം കൂട്ടുക"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:284
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "വാചകം ഉള്‍‌ക്കൊള്ളാതാകുമ്പോള്‍ പദാവലിക്കളത്തിന്റെ ഉയരം കൂട്ടണോ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "നിരത്തല്‍ രീതി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:292
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "ഒന്നിലധികം വരിയിലുള്ള വാചകങ്ങള്‍ നിരത്തുന്ന രീതി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "ഉഭയക്രമീകരണം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:301
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "ഉഭയക്രമീകരണ രീതി"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "ദിശ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:310
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "പദാവലിയുടെ ദിശ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "നങ്കൂരം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:319
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "പദാവലിയ്ക്കുള്ള നങ്കൂര സ്ഥാനം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "വരിക്കു് മുകളിലെ പിക്സലുകള്‍"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:328
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "വരിക്കു് മുകളിലിടേണ്ട പിക്സലുകളുടെ എണ്ണം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "വരിക്കു താഴെയുള്ള പിക്സലുകള്‍"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:337
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "വരിക്കു താഴെയിടേണ്ട പിക്സലുകളുടെ എണ്ണം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "നിരത്തലിനകത്തെ പിക്സലുകള്‍ "
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:346
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "നിരത്തലിനുളളിലുളള പിക്സലുകളുടെ എണ്ണം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "ഇടതു് മാര്‍ജിന്‍"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:355
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "ഇടതു് മാര്‍ജിനിലെ പിക്സലുകളുടെ എണ്ണം"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "വലതു് മാര്‍ജിന്‍"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:364
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "വലതു് മാര്‍ജിനിലെ പിക്സലുകളുടെ എണ്ണം "
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "വിട"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:373
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "വിടവിനുള്ള പിക്സലുകളുടെ എണ്ണം "
-

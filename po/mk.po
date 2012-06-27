@@ -1,47 +1,47 @@
-# translation of libmatecanvas.HEAD.mk.po to
-# translation of libmatecanvas.HEAD.mk.po to Macedonian
-# translation of libmatecanvas.HEAD.mk.po to
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER
-#
-# Bozidar Proevski <bobibobi@freemail.com.mk>, 2002,2003.
+# 
+# Translators:
+# Bozidar Proevski <bobibobi@freemail.com.mk>, 2002, 2003.
 # Ivan Stojmirov <stojmir@linux.net.mk>, 2003.
+# Jovan Naumovski <jovan@lugola.net>, 2006.
 # Misa Popovic <stomak81@freemail.com.mk>, 2003.
 # Vladislav Bidikov <bidikovi@mail.com.mk>, 2003.
-# Jovan Naumovski <jovan@lugola.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas.HEAD.mk\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-11-23 11:18+0100\n"
-"PO-Revision-Date: 2006-11-24 16:51+0100\n"
-"Last-Translator: Jovan Naumovski <jovan@lugola.net>\n"
-"Language-Team: Macedonian <ossm-members@hedona.on.net.mk>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:28+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Language: mk\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2045
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "Антиалијас"
 
-#: ../libmatecanvas/mate-canvas.c:2046
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "Антиалијас режим на канвасот."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Текст"
 
@@ -124,10 +124,9 @@ msgid "Rise"
 msgstr "Подигни"
 
 #: ../libmatecanvas/mate-canvas-text.c:341
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr ""
-"Офсет на текстот над основната линија (под основната линија доколку "
-"зголемувањето е негативно)"
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr "Офсет на текстот над основната линија (под основната линија доколку зголемувањето е негативно)"
 
 #: ../libmatecanvas/mate-canvas-text.c:351
 msgid "Strikethrough"
@@ -267,151 +266,150 @@ msgstr "Наместена скала"
 msgid "Whether this tag affects font scaling"
 msgstr "Дали овој таг влијае на степенувањето"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:212
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "Текст за прикажување"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:220
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "X позиција"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:228
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Y позиција"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Широчина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:236
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "Широчиња за кутијата со текст"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Височина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:244
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "Височина за кутијата со текст"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Уредливо"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:252
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "Дали е овој rich текст предмет уредлив?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Видливо"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:260
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "Дали е овој rich текст предмет видлив?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "Курсор е видлив"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:268
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "Дали е курсорот видлив во rich текст предметот?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "Трепкање на курсорот"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:276
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "Дали курсорот трепка во rich текст предметот?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "Зголемување на висина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:284
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "Дали да се зголемува висината на  текст кутијата ако текстот не се вклопува?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "Режим за завиткување"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:292
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "Пакувачки мод за повеќелиниски текст"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Порамнување"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:301
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "Порамнувачки режим"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Насока"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:310
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Насока на текст"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Сидро"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:319
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "Точка на засидрување на текст"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "Пиксели над линии"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:328
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "Број на пиксели за ставање над линии"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "Пиксели под линии"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:337
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "Број на пиксели да се стават под линии"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "Пиксели во пакувано"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:346
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "Број на пиксели да се стават во пакување"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "Лева маргина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:355
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "Број на пиксели во левата маргина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "Десна маргина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:364
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "Број на пиксели во десната маргина"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "Порамнување"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:373
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "Број на пиксели за вовлекување"
-

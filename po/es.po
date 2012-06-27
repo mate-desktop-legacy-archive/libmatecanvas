@@ -1,47 +1,47 @@
-# translation of libmatecanvas.HEAD.po to Español
-# Translation into spanish of libmatecanvas.
-# Copyright (C) 2001, 2003, 2004, 2008 Free Software Foundation, Inc.
-#
-# Héctor García Álvarez <hector@scouts-es.org>, 2001.
-# Juan Manuel García Molina <juanma_gm@wanadoo.es>, 2002.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Francisco Javier F. Serrador <serrador@arrakis.es>, 2003.
 # Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2004.
+# Héctor García Álvarez <hector@scouts-es.org>, 2001.
 # Jorge González <jorgegonz@svn.gnome.org>, 2008.
+# Juan Manuel García Molina <juanma_gm@wanadoo.es>, 2002.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas.HEAD\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 05:44+0000\n"
-"PO-Revision-Date: 2008-03-02 16:34+0100\n"
-"Last-Translator: Jorge González <jorgegonz@svn.gnome.org>\n"
-"Language-Team: Español <mate-es-list@gnome.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:29+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Spanish (Castilian) (http://www.transifex.com/projects/p/MATE/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"First-Translator: Héctor García Álvarez <hector@scouts-es.org>\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2045
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "Antialias"
 
-#: ../libmatecanvas/mate-canvas.c:2046
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "El modo antialias del lienzo."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Texto"
 
@@ -109,9 +109,7 @@ msgstr "Tamaño de la tipografía"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"Tamaño de tipografía (como un múltiplo de PANGO_SCALE, ej 12*PANGO_SCALE "
-"para un tamaño de 12pt de tamaño de tipo"
+msgstr "Tamaño de tipografía (como un múltiplo de PANGO_SCALE, ej 12*PANGO_SCALE para un tamaño de 12pt de tamaño de tipo"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -126,7 +124,8 @@ msgid "Rise"
 msgstr "Aumento"
 
 #: ../libmatecanvas/mate-canvas-text.c:341
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
 msgstr "Desviación por encima del texto base (por debajo si el aumento es negativo)"
 
 #: ../libmatecanvas/mate-canvas-text.c:351
@@ -267,151 +266,150 @@ msgstr "Seleccionar escala"
 msgid "Whether this tag affects font scaling"
 msgstr "Si esta etiqueta afecta al escalado de tipografías"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:212
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "Texto a renderizar"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:220
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "Posición X"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:228
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Posición Y"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Ancho"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:236
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "Ancho de la caja de texto"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Alto"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:244
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "Altura para la caja de texto"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Editable"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:252
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "¿Es editable este elemento de texto enriquecido?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Visible"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:260
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "¿Es visible este elemento de texto enriquecido?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "Cursor visible"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:268
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "¿Es visible el cursor en este elemento de texto enriquecido?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "Parpadeo del cursor"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:276
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "¿Parpadea el cursor en este elemento de texto enriquecido?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "Aumentar altura"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:284
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "¿Debe crecer la altura de la caja de texto si el texto no cabe?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "Modo de separación"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:292
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "Modo de separación para texto con múltiples líneas"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Justificación"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:301
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "Modo de justificación"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Dirección"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:310
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Dirección del texto"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Anclaje"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:319
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "Punto de anclaje para el texto"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "Píxeles sobre líneas"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:328
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "Número de píxeles a poner sobre líneas"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "Píxeles bajo líneas"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:337
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "Número de píxeles a poner bajo líneas"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "Píxeles de separación"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:346
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "Número de píxeles para separación"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "Margen izquierdo"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:355
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "Número de píxeles en el margen izquierdo"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "Margen derecho"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:364
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "Número de píxeles en el margen derecho"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "Sangrado"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:373
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "Número de píxeles para sangrado"
-

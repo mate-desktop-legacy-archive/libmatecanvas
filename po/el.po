@@ -1,49 +1,45 @@
-# translation of el.po to 
-# translation of el.po to Greek
-# Greek translation of libmatecanvas.
-# Copyright (C) 2002 Free Software Foundation.
-#
-# simos: 30 messages (approx), initial translation.
-# kostas: 94 messages, 07Nov2002, completed translation.
-# simos: 94 messages, 07Nov2002, translation review.
-# kostas: 05Jan2003, updated translatiom for Mate2.1x.
-# Simos Xenitellis <simos@hellug.gr>, 2002.
-# Kostas Papadimas <pkst@gnome.org>, 2002,2003,2004.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Kostas Papadimas <pkst@gnome.org>, 2002, 2003, 2004.
 # Nikos Charonitakis <charosn@her.forthnet.gr>, 2004.
-#
+# Simos Xenitellis <simos@hellug.gr>, 2002.
 msgid ""
 msgstr ""
-"Project-Id-Version: el\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 05:44+0000\n"
-"PO-Revision-Date: 2007-03-07 13:16+0800\n"
-"Last-Translator: Simos Xenitellis <simos@gnome.org>\n"
-"Language-Team: Greek <team@mate.gr>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:28+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: Greek (http://www.transifex.com/projects/p/MATE/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.3.1\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "Χ"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Ψ"
 
-#: ../libmatecanvas/mate-canvas.c:2045
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "Εξομάλυνση"
 
-#: ../libmatecanvas/mate-canvas.c:2046
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "Η λειτουργία εξομάλυνσης του canvas."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Κείμενο"
 
@@ -55,12 +51,10 @@ msgstr "Κείμενο προς εμφάνιση"
 msgid "Markup"
 msgstr "Σήμανση"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:216
 msgid "Marked up text to render"
 msgstr "Σήμανση κειμένου για προβολή"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:241
 msgid "Font"
 msgstr "Γραμματοσειρά"
@@ -83,10 +77,8 @@ msgstr "Οικογένεια γραμματοσειράς"
 
 #: ../libmatecanvas/mate-canvas-text.c:260
 msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
-msgstr ""
-"Όνομα της οικογένειας γραμματοσειράς, π.χ. Sans, Helvetica, Times, Monospace"
+msgstr "Όνομα της οικογένειας γραμματοσειράς, π.χ. Sans, Helvetica, Times, Monospace"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:276
 #: ../libmatecanvas/mate-canvas-text.c:277
 msgid "Font style"
@@ -115,8 +107,7 @@ msgstr "Μέγεθος γραμματοσειράς"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"Μέγεθος γραμματοσειράς (ως πολλαπλάσιο του PANGO_SCALE, π.χ. 12*PANGO_SCALE για γραμματοσειρά μεγέθους 12pt)"
+msgstr "Μέγεθος γραμματοσειράς (ως πολλαπλάσιο του PANGO_SCALE, π.χ. 12*PANGO_SCALE για γραμματοσειρά μεγέθους 12pt)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -133,9 +124,7 @@ msgstr "Ανάδυση"
 #: ../libmatecanvas/mate-canvas-text.c:341
 msgid ""
 "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr ""
-"Διάταξη κειμένου πάνω από τη γραμμή βάσης (κάτω από τη γραμμή βάσης αν είναι "
-"αρνητική)"
+msgstr "Διάταξη κειμένου πάνω από τη γραμμή βάσης (κάτω από τη γραμμή βάσης αν είναι αρνητική)"
 
 #: ../libmatecanvas/mate-canvas-text.c:351
 msgid "Strikethrough"
@@ -145,12 +134,10 @@ msgstr "Επισήμανση"
 msgid "Whether to strike through the text"
 msgstr "Αν θα γίνει επισήμανση κειμένου"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:360
 msgid "Underline"
 msgstr "Υπογράμμιση"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:361
 msgid "Style of underline for this text"
 msgstr "Στυλ υπογράμμισης για αυτό το κείμενο"
@@ -181,7 +168,6 @@ msgstr "Χρώμα κειμένου, ως GdkColor"
 msgid "Text color, as an R/G/B/A combined integer"
 msgstr "Χρώμα κειμένου, ως ένας συνδυασμένος ακέραιος R/G/B/A"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:455
 msgid "Text width"
 msgstr "Πλάτος κειμένου"
@@ -190,7 +176,6 @@ msgstr "Πλάτος κειμένου"
 msgid "Width of the rendered text"
 msgstr "Το πλάτος του εμφανιζόμενου κειμένου"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:463
 msgid "Text height"
 msgstr "Ύψος κειμένου"
@@ -205,10 +190,8 @@ msgstr "Ορισμός οικογένειας γραμματοσειράς"
 
 #: ../libmatecanvas/mate-canvas-text.c:473
 msgid "Whether this tag affects the font family"
-msgstr ""
-"Αν αυτή η αναγνωριστική ετικέτα επηρεάζει την οικογένεια γραμματοσειράς"
+msgstr "Αν αυτή η αναγνωριστική ετικέτα επηρεάζει την οικογένεια γραμματοσειράς"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:476
 msgid "Font style set"
 msgstr "Ορισμός στυλ γραμματοσειράς"
@@ -223,8 +206,7 @@ msgstr "Ορισμός παραλλαγής γραμματοσειράς"
 
 #: ../libmatecanvas/mate-canvas-text.c:481
 msgid "Whether this tag affects the font variant"
-msgstr ""
-"Αν αυτή η αναγνωριστική ετικέτα επηρεάζει την παραλλαγή της γραμματοσειράς"
+msgstr "Αν αυτή η αναγνωριστική ετικέτα επηρεάζει την παραλλαγή της γραμματοσειράς"
 
 #: ../libmatecanvas/mate-canvas-text.c:484
 msgid "Font weight set"
@@ -266,7 +248,6 @@ msgstr "Ορισμός επισήμανσης"
 msgid "Whether this tag affects strikethrough"
 msgstr "Αν αυτή η αναγνωριστική ετικέτα επηρεάζει την επισήμανση"
 
-#
 #: ../libmatecanvas/mate-canvas-text.c:504
 msgid "Underline set"
 msgstr "Ορισμός υπογράμμισης"
@@ -283,155 +264,150 @@ msgstr "Ορισμός κλίμακας"
 msgid "Whether this tag affects font scaling"
 msgstr "Αν αυτή η αναγνωριστική ετικέτα επηρεάζει την κλιμάκωση γραμματοσειράς"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:212
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "Κείμενο προς εμφάνιση"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:220
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "Θέση Χ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:228
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Θέση Ψ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Πλάτος"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:236
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "Πλάτος για κουτί κειμένου"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Ύψος"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:244
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "Ύψος για κουτί κειμένου"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Επεξεργάσιμο"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:252
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "Είναι επεξεργάσιμο αυτό το αντικείμενο εμπλουτισμένου κειμένου;"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Ορατό"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:260
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "Είναι ορατό αυτό το αντικείμενο εμπλουτισμένου κειμένου;"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "Ορατός Δρομέας"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:268
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "Είναι ορατός ο δρομέας σε αυτό το αντικείμενο εμπλουτισμένου κειμένου;"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "Παλλόμενος Δρομέας"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:276
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "Αναβοσβήνει ο δρομέας σε αυτό το αντικείμενο εμπλουτισμένου κειμένου;"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "Μεγάλωμα Ύψους"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:284
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "Να μεγαλώνει το κουτί κειμένου αν δεν χωράει το κείμενο;"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "Κατάσταση Αναδίπλωσης"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:292
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "Λειτουργία αναδίπλωσης για κείμενο πολλαπλών γραμμών"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Στοίχιση"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:301
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "Λειτουργία στοίχισης"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Κατεύθυνση"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:310
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Κατεύθυνση κειμένου"
 
-#
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Άγκυρα"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:319
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "Σημείο άγκυρας για κείμενο"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "Εικονοστοιχεία Πάνω από Γραμμές"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:328
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "Αριθμός εικονοστοιχείων για χρήση πάνω από τις γραμμές"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "Εικονοστοιχεία Κάτω από Γραμμές"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:337
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "Αριθμός εικονοστοιχείων για χρήση κάτω από τις γραμμές"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "Εικονοστοιχεία Μέσα σε Αναδίπλωση"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:346
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "Αριθμός εικονοστοιχείων για χρήση μέσα στην αναδίπλωση"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "Αριστερό Περιθώριο"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:355
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "Αριθμός εικονοστοιχείων στο αριστερό περιθώριο"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "Δεξιό Περιθώριο"
 
-# sysdeps/names/msg_limits.c:43 sysdeps/names/msg_limits.c:54
-#: ../libmatecanvas/mate-canvas-rich-text.c:364
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "Αριθμός εικονοστοιχείων στο δεξί περιθώριο"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "Εσοχές"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:373
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "Αριθμός εικονοστοιχείων για εσοχή"
-
-#~ msgid "Font size in points"
-#~ msgstr "Μέγεθος γραμματοσειράς σε σημεία"

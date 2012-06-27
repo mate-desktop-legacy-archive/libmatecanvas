@@ -1,45 +1,44 @@
-# translation of libmatecanvas.HEAD.or.po to Oriya
-# Oriya translation of libmatecanvas.HEAD.pot.
-# Copyright (C) 2005, 2006, 2007, Free Software Foundation, Inc.
-# This file is distributed under the same license as the libmatecanvas package.
-# $Id: or.po,v 1.1 2006/03/23 22:56:05 gmohanty Exp $
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Gora Mohanty <gora_mohanty@yahoo.co.in>, 2005, 2006.
 # Subhransu Behera <arya_subhransu@yahoo.co.in>, 2007.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas.HEAD.or\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2007-01-02 05:44+0000\n"
-"PO-Revision-Date: 2007-03-02 17:28+0530\n"
-"Last-Translator: Subhransu Behera <arya_subhransu@yahoo.co.in>\n"
-"Language-Team: Oriya <oriya-group@lists.sarovar.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:30+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: Plural-Forms: nplurals=2; plural=(n!=1);\n\n"
+"Language: or\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "ଏକ୍ସ"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "ୱାଇ"
 
-#: ../libmatecanvas/mate-canvas.c:2045
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "ମସୃଣିତ"
 
-#: ../libmatecanvas/mate-canvas.c:2046
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "ଏହି ଅଙ୍କନ କ୍ଷେତ୍ରର ମସୃଣକାରୀ ଧାରା"
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "ପାଠ୍ଯ"
 
@@ -107,9 +106,7 @@ msgstr "ଅକ୍ଷରରୂପ ଆକାର"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"ଅକ୍ଷର ରୂପ ଆକାର (PANGO_SCALE ର ଗୋଟିଏ ଗୁଣିତକ, ଉଦାହରଣ ସ୍ବରୂପ, ଗୋଟିଏ 12pt ଅକ୍ଷର ରୂପ ଆକାର "
-"ପାଇଁ 12*PANGO_SCALE)"
+msgstr "ଅକ୍ଷର ରୂପ ଆକାର (PANGO_SCALE ର ଗୋଟିଏ ଗୁଣିତକ, ଉଦାହରଣ ସ୍ବରୂପ, ଗୋଟିଏ 12pt ଅକ୍ଷର ରୂପ ଆକାର ପାଇଁ 12*PANGO_SCALE)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -124,7 +121,8 @@ msgid "Rise"
 msgstr "ଆରୋହଣ"
 
 #: ../libmatecanvas/mate-canvas-text.c:341
-msgid "Offset of text above the baseline (below the baseline if rise is negative)"
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
 msgstr "ଭିତ୍ତି ରେଖା ଉପରେ ପାଠ୍ଯର ଚ୍ଛାଡ଼ (ଆରୋହଣ ଋଣାତ୍ମକ ଥିଲେ ଭିତ୍ତି ରେଖା ତଳେ)"
 
 #: ../libmatecanvas/mate-canvas-text.c:351
@@ -265,151 +263,150 @@ msgstr "ଆକାର ସମୂହ"
 msgid "Whether this tag affects font scaling"
 msgstr "ଏହି ସୂଚକ ଅକ୍ଷରରୂପର ଆକାରକୁ ପ୍ରଭାବିତ କରେ କି ନାହିଁ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:212
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "ପ୍ରଦର୍ଶନ ପାଇଁ ପାଠ୍ଯ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:220
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "ଏକ୍ସ ସ୍ଥିତି"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:228
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "ୱାଇ ସ୍ଥିତି"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "ଓସାର"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:236
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "ପାଠ୍ଯ ବାକ୍ସର ଓସାର"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "ଉଚ୍ଚତା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:244
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "ପାଠ୍ଯ ବାକ୍ସର ଉଚ୍ଚତା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "ସମ୍ପାଦନ କ୍ଷମ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:252
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "ଏହି ରିଚ୍ ପାଠ୍ଯ ବସ୍ତୁ ସମ୍ପାଦନ କ୍ଷମ କି ନାହିଁ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "ଦୃଶ୍ଯମାନ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:260
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "ଏହି ରିଚ୍ ପାଠ୍ଯ ବସ୍ତୁ ଦୃଶ୍ଯମାନ ଅଛି କି ନାହିଁ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "ଦର୍ଶିକା ଦୃଶ୍ଯମାନ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:268
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "ଏହି ରିଚ୍ ପାଠ୍ଯରେ ଦର୍ଶିକା ଦୃଶ୍ଯମାନ ଅଛି କି ନାହିଁ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "ଦର୍ଶିକା ମିଟିମିଟି"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:276
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "ଏହି ରିଚ୍ ପାଠ୍ଯରେ ଦର୍ଶିକା ମିଟିମିଟି କରୁଛି କି ନାହିଁ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "ଉଚ୍ଚତା ବଢ଼ାନ୍ତୁ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:284
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "ପାଠ୍ଯ ଉପଯୁକ୍ତ ନ ହେଲେ ପାଠ୍ଯ ବାକ୍ସର ଉଚ୍ଚତା ବଢ଼ାଯିବ କି ନାହିଁ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "ଧାଡ଼ି ମୋଡ଼ା ଧାରା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:292
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "ବହୁରେଖା ପାଠ୍ଯ ପାଇଁ ଧାଡ଼ି ମୋଡ଼ା ଧାରା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "ଦ୍ବିପାର୍ଶ୍ବୀ ସଜ୍ଜା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:301
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "ଦ୍ବିପାର୍ଶ୍ବୀ ସଜ୍ଜା ଧାରା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "ଦିଗ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:310
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "ପାଠ୍ଯ ଦିଗ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "ସ୍ଥିରକ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:319
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "ପାଠ୍ଯର ସ୍ଥିରକ ବିନ୍ଦୁ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "ଲାଇନ ଉପରେ ପିକ୍ସେଲ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:328
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "ଲାଇନ ଉପରେ ଛାଡ଼ ପାଇଁ ପିକ୍ସେଲର ସଂଖ୍ଯା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "ଲାଇନ ତଳେ ପିକ୍ସେଲ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:337
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "ଲାଇନ ତଳେ ଛାଡ଼ ପାଇଁ ପିକ୍ସେଲର ସଂଖ୍ଯା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "ମୋଡ଼ ଭିତରେ ପିକ୍ସେଲ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:346
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "ମୋଡ଼ ଭିତରେ ପିକ୍ସେଲର ସଂଖ୍ଯା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "ବାମ ସୀମାରେଖା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:355
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "ବାମ ସୀମାରେଖାରେ ପିକ୍ସେଲର ସଂଖ୍ଯା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "ଡାହାଣ ସୀମାରେଖା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:364
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "ଡାହାଣ ସୀମାରେଖାରେ ପିକ୍ସେଲର ସଂଖ୍ଯା"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "ଅନୁଚ୍ଛେଦ ଛାଡ଼"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:373
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "ଅନୁଚ୍ଛେଦ ଛାଡ଼ ପାଇଁ ପିକ୍ସେଲର ସଂଖ୍ଯା"
-

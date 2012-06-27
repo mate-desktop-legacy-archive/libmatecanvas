@@ -1,47 +1,45 @@
-# translation of lv.po to Latvian
-# libmateconvas for Latvian.
-# Copyright (C) 2002 THE PACKAGE'S COPYRIGHT HOLDER
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
+# Translators:
+# Peteris Krisjanis <pecisk@gmail.com>, 2010.
 # Peteris Krisjanis <peteris.krisjanis@os.lv>, 2002.
 # Raivis Dejus <orvils@gmail.com>, 2006, 2009.
-# Peteris Krisjanis <pecisk@gmail.com>, 2010.
 msgid ""
 msgstr ""
-"Project-Id-Version: lv\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
-"cgi?product=libmatecanvas&component=general\n"
-"POT-Creation-Date: 2010-03-27 12:49+0000\n"
-"PO-Revision-Date: 2010-04-25 18:59+0300\n"
-"Last-Translator: Peteris Krisjanis <pecisk@gmail.com>\n"
-"Language-Team: Latviešu <lata-l10n@googlegroups.com>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:27+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2)\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:218
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:226
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2051
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "Kropļojumnovērsums"
 
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "Attēla kropļojumnovērses režīms."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:210
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Teksts"
 
@@ -109,9 +107,7 @@ msgstr "Fonta izmērs"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"Fonta izmērs (kā PANGO_SCALE pavairotājs, piem. 12*PANGO_SCALE lai iegūtu "
-"12pt fonta izmēru)"
+msgstr "Fonta izmērs (kā PANGO_SCALE pavairotājs, piem. 12*PANGO_SCALE lai iegūtu 12pt fonta izmēru)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -128,9 +124,7 @@ msgstr "Pacēlums"
 #: ../libmatecanvas/mate-canvas-text.c:341
 msgid ""
 "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr ""
-"Teksta nobīde virs bāzes līnijas (zem bāzes līnijas, ja pacelšana ir "
-"negatīva)"
+msgstr "Teksta nobīde virs bāzes līnijas (zem bāzes līnijas, ja pacelšana ir negatīva)"
 
 #: ../libmatecanvas/mate-canvas-text.c:351
 msgid "Strikethrough"
@@ -270,151 +264,150 @@ msgstr "Mēroga iestatījums"
 msgid "Whether this tag affects font scaling"
 msgstr "Vai šis tags ietekmē fonta mērogošanu"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "Attēlojamais teksts"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "X pozīcija"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Y pozīcija"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:234
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Platums"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "Teksta lodziņa platums"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:242
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Augstums"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "Teksta lodziņa augstums"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:250
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Rediģējams"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "Vai šis teksta priekšmets ir rediģējams?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:258
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Redzams"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "Vai šis teksta priekšmets ir redzams?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:266
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "Kursora redzamība"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "Vai kursors ir redzams šajā teksta priekšmetā?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:274
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "Kursora mirgošana"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "Vai kursors mirgo šajā teksta priekšmetā?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:282
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "Augošs augstums"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "Vai teksta kastītei vajadzētu augt, ja teksts neiekļaujas tajā?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:290
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "Aplaušanas režīms"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "Aplaušanas režīms vairāklīniju tekstam"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:299
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Izlīdzināšana"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "Izlīdzināšanas režīms"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:308
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Virziens"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Teksta virziens"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:317
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Enkurs"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "Enkura punkts tekstam"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:326
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "Pikseļi virs rindām"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "Pikseļu skaits, ko novietot virs rindām"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:335
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "Pikseļi zem rindām"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "Pikseļu skaits, ko novietot zem rindām"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:344
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "Pikseļu skaits iekļāvuma iekšpusē"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "Pikseļu daudzums, ko ievietot iekļāvuma iekšienē"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:353
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "Kreisā mala"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "Pikseļu skaits kreisajā malā"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:362
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "Labā mala"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "Pikseļu skaits labajā malā"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:371
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "Atkāpju veidošana"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "Atkāpes pikseļu daudzums"
-

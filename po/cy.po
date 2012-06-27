@@ -1,59 +1,54 @@
-# libgnomcanvas yn Gymraeg.
-# This file is distributed under the same license as the libmatecanvas
-# package.
-# Dafydd Harries <daf@muse.19inch.net>, 2003 2004
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Iestyn Pryce <dylunio@gmail.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2009-12-20 16:33+0000\n"
-"PO-Revision-Date: 2009-12-20 16:35+0100\n"
-"Last-Translator: Iestyn Pryce <dylunio@gmail.com>\n"
-"Language-Team: Welsh <mate-cy@pengwyn.linux.org.uk>\n"
-"Language: cy\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:28+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
-"X-Generator: Virtaal 0.5.0\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:218
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:226
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-# EFALLAI
-#: ../libmatecanvas/mate-canvas.c:2051
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "Datamegennu"
 
-# EFALLAI
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "Modd datamgennu'r cynfas"
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:210
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Testun"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:207
 msgid "Text to render"
 msgstr "Y testun i'w lunio"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:215
 msgid "Markup"
 msgstr "Tagiau"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:216
 msgid "Marked up text to render"
 msgstr "Testun efo tagiau i'w lunio"
@@ -110,9 +105,7 @@ msgstr "Maint ffont"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"Maint ffont (fel lluosrif o PANGO_SCALE, e.e. 12*PANGO_SCALE ar gyfer maint "
-"ffont 12pt) "
+msgstr "Maint ffont (fel lluosrif o PANGO_SCALE, e.e. 12*PANGO_SCALE ar gyfer maint ffont 12pt) "
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -122,24 +115,19 @@ msgstr "Pwyntiau'r ffont"
 msgid "Font size in points (eg. 12 for a 12pt font size)"
 msgstr "Maint ffont mewn pwyntiau(e.e. 12 ar gyfer maint ffont 12pt)"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:340
 msgid "Rise"
 msgstr "Esgyniad"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:341
 msgid ""
 "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr ""
-"Atred y testun uwchben y sail-linell (islaw os yw'r egyniad yn negyddol)"
+msgstr "Atred y testun uwchben y sail-linell (islaw os yw'r egyniad yn negyddol)"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:351
 msgid "Strikethrough"
 msgstr "Croesi"
 
-# EFALLAU
 #: ../libmatecanvas/mate-canvas-text.c:352
 msgid "Whether to strike through the text"
 msgstr "Dylid croesi'r testun drwodd"
@@ -182,7 +170,6 @@ msgstr "Lliw y testun, fel cyfanrif R/G/B/A cyfansawdd"
 msgid "Text width"
 msgstr "Lled testun"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:456
 msgid "Width of the rendered text"
 msgstr "Lled y testun wedi ei lunio"
@@ -191,7 +178,6 @@ msgstr "Lled y testun wedi ei lunio"
 msgid "Text height"
 msgstr "Uchder testun"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:464
 msgid "Height of the rendered text"
 msgstr "Uchder y testun wedi ei lunio"
@@ -200,7 +186,6 @@ msgstr "Uchder y testun wedi ei lunio"
 msgid "Font family set"
 msgstr "Gosod teulu ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:473
 msgid "Whether this tag affects the font family"
 msgstr "A ydy'r tag yma yn affeithio ar y teulu ffont"
@@ -209,7 +194,6 @@ msgstr "A ydy'r tag yma yn affeithio ar y teulu ffont"
 msgid "Font style set"
 msgstr "Gosod arddull ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:477
 msgid "Whether this tag affects the font style"
 msgstr "A ydy'r tag yma yn affeithio ar arddull y ffont"
@@ -218,7 +202,6 @@ msgstr "A ydy'r tag yma yn affeithio ar arddull y ffont"
 msgid "Font variant set"
 msgstr "Gosod amrywiant ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:481
 msgid "Whether this tag affects the font variant"
 msgstr "A ydy'r tag yma yn affeithio ar amrywiant y ffont"
@@ -227,7 +210,6 @@ msgstr "A ydy'r tag yma yn affeithio ar amrywiant y ffont"
 msgid "Font weight set"
 msgstr "Gosod pwysau ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:485
 msgid "Whether this tag affects the font weight"
 msgstr "A ydy'r tag yma yn affeithio ar bwysau'r ffont"
@@ -236,7 +218,6 @@ msgstr "A ydy'r tag yma yn affeithio ar bwysau'r ffont"
 msgid "Font stretch set"
 msgstr "Gosod ymestyniad ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:489
 msgid "Whether this tag affects the font stretch"
 msgstr "A ydy'r tag yma yn affeithio ar ymestyniad y ffont"
@@ -245,22 +226,18 @@ msgstr "A ydy'r tag yma yn affeithio ar ymestyniad y ffont"
 msgid "Font size set"
 msgstr "Gosod maint ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:493
 msgid "Whether this tag affects the font size"
 msgstr "A ydy'r tag yma'n affeithio ar faint y ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:496
 msgid "Rise set"
 msgstr "Gosod esgyniad"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:497
 msgid "Whether this tag affects the rise"
 msgstr "A ydy'r tag yma yn affeithio ar esgyniad y ffont"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:500
 msgid "Strikethrough set"
 msgstr "Gosod croesi"
@@ -273,7 +250,6 @@ msgstr "A ydy'r tag yma yn affeithio ar grosei"
 msgid "Underline set"
 msgstr "Gosod tanlinelliad"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:505
 msgid "Whether this tag affects underlining"
 msgstr "A ydy'r tag yma yn affeithio ar danlinelliad"
@@ -282,158 +258,154 @@ msgstr "A ydy'r tag yma yn affeithio ar danlinelliad"
 msgid "Scale set"
 msgstr "Gosod graddfa"
 
-# EFALLAI
 #: ../libmatecanvas/mate-canvas-text.c:509
 msgid "Whether this tag affects font scaling"
 msgstr "A ydy'r tag yma yn affeithio ar raddfa'r ffont"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "Y testun i'w ddangos"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "Safle X"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Safle Y"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:234
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Lled"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "Lled ar gyfer blwch testun"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:242
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Uchder"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "Uchder ar gyfer blwch testun"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:250
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Newidadwy"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "Ydy'r eitem testun gyfoethog yma yn newidadwy?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:258
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Gweladwy"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "Ydy'r eitem testun cyfoethog yma yn weladwy?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:266
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "Cyrchydd Gweladwy"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "A ydy'r cyrchydd yn weladwy yn yr eitem testun cyfoethog hwn?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:274
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "Chwincio'r Cyrchydd"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "A ydy'r cyrchydd yn chwincio yn yr eitem testun cyfoethog hwn?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:282
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "Cynyddu'r Uchder"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "A ddylai uchder y blwch gynyddu os nad yw'r testun yn ffitio?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:290
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "Modd Amlapio"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "Modd amlapio ar gyfer testun aml-linell"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:299
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Unioni"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "Modd unioni"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:308
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Cyfeiriad"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Cyfeiriad y testun"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:317
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Angor"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "Pwynt angori'r testun"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:326
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "Picseli Uwchben Llinellau"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "Y nifer o bicseli i'w rhoi uwchben llinellau"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:335
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "Picseli Islaw Llinellau"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "Y nifer o bicseli i'w rhoi islaw llinellau"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:344
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "Picseli o Fewn Amlapiad"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "Y nifer o bicseli i'w rhoi o fewn yr ampliad"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:353
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "Ymyl Chwith"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "Y nifer o bicseli yn yr ymyl chwith"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:362
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "Ymyl Dde"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "Y nifer o bicseli yn yr ymyl dde"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:371
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "Menoliad"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "Y nifer o bicseli ar gyfer mewnoli"
-
-#~ msgid "Font size in points"
-#~ msgstr "Maint y ffont mewn pwyntiau"

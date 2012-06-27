@@ -1,43 +1,44 @@
-# libmatecanvas ja.po.
-# Copyright (C) 1998-2004,2007 Free Software Foundation, Inc.
-# Yukihiro Nakai <Nakai@abricot.co.jp>, 1998,2001.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Eiichiro ITANI <emu@ceres.dti.ne.jp>, 1999.
-# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 1999-2002.
-# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2003-2004,2007.
-#
+# Yukihiro Nakai <Nakai@abricot.co.jp>, 1998, 2001.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas master\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=libmatecanvas&component=general\n"
-"POT-Creation-Date: 2010-08-31 14:46+0000\n"
-"PO-Revision-Date: 2007-03-13 00:55+0900\n"
-"Last-Translator: Takeshi AIHANA <takeshi.aihana@gmail.com>\n"
-"Language-Team: Japanese <gnome-translation@gnome.gr.jp>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:30+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:218
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:226
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2051
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "アンチエイリアス"
 
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "キャンバスをアンチエイリアス・モードにするかどうかです"
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:210
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "文字列"
 
@@ -105,9 +106,7 @@ msgstr "フォントの大きさ"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"フォントの大きさです (PANGO_SCALE の倍率で指定する; 例えば 12ポイントの場合"
-"は 12*PANGO_SCALE)"
+msgstr "フォントの大きさです (PANGO_SCALE の倍率で指定する; 例えば 12ポイントの場合は 12*PANGO_SCALE)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -264,152 +263,150 @@ msgstr "スケール設定"
 msgid "Whether this tag affects font scaling"
 msgstr "このタグがフォントのスケーリングに影響するかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "表示する文字列"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "位置 X"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "位置 Y"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:234
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "幅"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "文字列を論理的に囲む矩形の幅"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:242
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "高さ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "テクスト・ボックスの高さ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:250
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "編集可"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "このリッチ・テキスト形式のアイテムが編集可能かどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:258
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "表示"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "このリッチ・テキスト形式のアイテムが表示可能かどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:266
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "カーソル表示"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "このリッチ・テキスト形式のアイテムでカーソルを表示するかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:274
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "カーソル点滅"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "このリッチ・テキスト形式のアイテム上のカーソルを点滅させるかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:282
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "フォントの高さ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
-msgstr ""
-"文字列がキャンバスに合わない場合に文字列を論理的に囲む矩形の高さを調整するか"
-"どうか"
+msgstr "文字列がキャンバスに合わない場合に文字列を論理的に囲む矩形の高さを調整するかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:290
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "行ラップ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "複数行にまたがる文字列を行ラップするかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:299
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "行端揃え"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "行端を揃えるかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:308
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "方向"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "文字列の向き"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:317
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "アンカー"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "文字列に (リンクの) アンカーを挿入するかどうか"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:326
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "線と文字の上方向の間隔"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "線と文字の上方向の間隔 (ピクセル単位)"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:335
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "線と文字の下方向の間隔"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "線と文字の下方向の間隔"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:344
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "ラップするまでの長さ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "ラップする際の一行の長さ (ピクセル単位)"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:353
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "左マージン"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "左側のマージン (ピクセル単位)"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:362
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "右マージン"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "右側のマージン (ピクセル単位)"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:371
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "字下げ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "字下げするの間隔 (ピクセル単位)"

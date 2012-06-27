@@ -1,49 +1,45 @@
-# Bengali translation of libmatecanvas
-# This file is distributed under the same license as the libmatecanvas package.
-# Copyright (C) 2003 Free Software Foundation, Inc.
-# Sayamindu Dasgupta <unmadindu@Softhome.net>, 2003
-# Maruf Ovee <maruf@ankur.org.bd>, 2009.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Israt Jahan <israt@ankur.org.bd>, 2010.
-#
+# Maruf Ovee <maruf@ankur.org.bd>, 2009.
+# Sayamindu Dasgupta <unmadindu@Softhome.net>, 2003.
 msgid ""
 msgstr ""
-"Project-Id-Version: bn\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=libmatecanvas&component=general\n"
-"POT-Creation-Date: 2009-08-06 14:05+0000\n"
-"PO-Revision-Date: 2010-03-07 15:04+0600\n"
-"Last-Translator: Israt Jahan <israt@ankur.org.bd>\n"
-"Language-Team: Bengali <ankur-bd-l10n@googlegroups.com>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:30+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.0.1\n"
+"Language: bn\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 
-# প্রথম প্রশ্ন - ফন্ট না হরফ ??
-# প্রথম উত্তর - ফন্ট
-# আচ্ছা ঠিক আছে :-)
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:218
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-# msgstr "এক্স"
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:226
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "অ্যান্টিএলিয়াস করা"
 
-#: ../libmatecanvas/mate-canvas.c:2053
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "ক্যানভাসের অ্যান্টিএলিয়াস মোড।"
 
-# দাঁড়ি missing
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:210
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "টেক্সট"
 
@@ -51,8 +47,6 @@ msgstr "টেক্সট"
 msgid "Text to render"
 msgstr "যে টেক্সট রেন্ডার করা হবে"
 
-# msgstr "যে টেক্সট আঁকা হবে" - "আঁকা" নাকি "লেখা" নাকি "প্রদর্শন করা"?
-# #সুরেশ দাশ টেক্সট আঁকা বুঝবেন না
 #: ../libmatecanvas/mate-canvas-text.c:215
 msgid "Markup"
 msgstr "মার্কআপ"
@@ -61,20 +55,14 @@ msgstr "মার্কআপ"
 msgid "Marked up text to render"
 msgstr "রেন্ডার করার জন্য মার্কআপ টেক্সট"
 
-# Same as ....
 #: ../libmatecanvas/mate-canvas-text.c:241
 msgid "Font"
 msgstr "ফন্ট"
 
-# হরফ
 #: ../libmatecanvas/mate-canvas-text.c:242
 msgid "Font description as a string"
 msgstr "স্ট্রিং হিসেবে ফন্টের বর্ণনা"
 
-# msgstr "শব্দ-গুচ্ছ (স্ট্রিন্গ) হিসাবে ফন্ট-এর বর্ণনা"
-# msgstr "এক পংক্তিতে ফন্টের বর্ণনা"
-# msgstr "ফন্টের সংক্ষিপ্ত বর্ণনা" -- ভাবানুবাদ; চিন্তা করে দেখ।
-# #মন্দ নয় Accepted :-)
 #: ../libmatecanvas/mate-canvas-text.c:250
 msgid "Font description"
 msgstr "ফন্ট-এর বর্ণনা"
@@ -83,16 +71,10 @@ msgstr "ফন্ট-এর বর্ণনা"
 msgid "Font description as a PangoFontDescription struct"
 msgstr "PangoFontDescription struct হিসেবে ফন্টের বর্ণনা"
 
-# msgstr "প্যাঙ্গো-ফন্ট-ডেসক্রিপসন গঠন হিসাবে ফন্ট-এর বর্ণনা"
-# এই "struct" সম্ভবত সি প্রোগ্রামিং এর স্ট্রাকচার
-# #হুম - মাথায় আসেনি :-)
 #: ../libmatecanvas/mate-canvas-text.c:259
 msgid "Font family"
 msgstr "ফন্ট ফ্যামিলি"
 
-# msgstr "ফন্টের বর্গ "
-# msgstr "ফন্ট প্রজাতি"
-# msgstr "ফন্ট প্রকৃতি"
 #: ../libmatecanvas/mate-canvas-text.c:260
 msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
 msgstr "ফন্টের ফ্যামিলির নাম, যেমন সান্স, হেলভেটিকা, টাইম্‌স, মোনোস্পেস"
@@ -107,7 +89,6 @@ msgstr "ফন্টের ধরন"
 msgid "Font variant"
 msgstr "ফন্টের রূপভেদ"
 
-# msgstr "ফন্টের বিশেষত্ব"
 #: ../libmatecanvas/mate-canvas-text.c:296
 #: ../libmatecanvas/mate-canvas-text.c:297
 msgid "Font weight"
@@ -126,11 +107,8 @@ msgstr "ফন্টের আকার"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"ফন্ট আকার (একাধিক PANGO_SCALE হিসেবে, যেমন 12pt ফন্ট আকারের জন্য 12*PANGO_SCALE)"
+msgstr "ফন্ট আকার (একাধিক PANGO_SCALE হিসেবে, যেমন 12pt ফন্ট আকারের জন্য 12*PANGO_SCALE)"
 
-# msgstr "ফন্টের আয়তন"
-# msgstr "ফন্টের আকার" -- যদি না ফন্ট ফাইলের Size বোঝায়
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
 msgstr "ফন্ট বিন্দু"
@@ -139,8 +117,6 @@ msgstr "ফন্ট বিন্দু"
 msgid "Font size in points (eg. 12 for a 12pt font size)"
 msgstr "পয়েন্ট অনুযায়ী ফন্ট সাইজ (উদা: ১২pt ফন্ট সাইজের জন্য ১২)"
 
-# বিন্দুর মাপে - জানিনা এটা ঠিক হচ্ছে কি না?
-# #হুম-যাগ্গে - এটা কোথাও দেখিনি .
 #: ../libmatecanvas/mate-canvas-text.c:340
 msgid "Rise"
 msgstr "স্থানান্তর"
@@ -150,14 +126,10 @@ msgid ""
 "Offset of text above the baseline (below the baseline if rise is negative)"
 msgstr "বেসলাইন এর উপরের লেখার অফসেট (স্থানান্তর ঋণাত্মক হলে, বেসলাইনের নিচে)"
 
-# এটা কি হবে?
-# জানিনা
 #: ../libmatecanvas/mate-canvas-text.c:351
 msgid "Strikethrough"
 msgstr "অবচ্ছেদ রেখা"
 
-# msgstr "কাটা"
-#
 #: ../libmatecanvas/mate-canvas-text.c:352
 msgid "Whether to strike through the text"
 msgstr "লেখার মাঝ বরাবর রেখাংকন করা হবে কিনা"
@@ -166,28 +138,18 @@ msgstr "লেখার মাঝ বরাবর রেখাংকন কর�
 msgid "Underline"
 msgstr "নিম্নরেখা"
 
-# msgstr "দাগানো"
 #: ../libmatecanvas/mate-canvas-text.c:361
 msgid "Style of underline for this text"
 msgstr "এই লেখার জন্য নিম্নরেখার শৈলী"
 
-# msgstr "এই লেখাকে কি রকম ভাবে দাগানো হবে"
-#
 #: ../libmatecanvas/mate-canvas-text.c:370
 msgid "Scale"
 msgstr "আকার পরিবর্তন"
 
-# msgstr "ক্রমাঙ্কন"
-# এটা শুনলে কি লোকে মারবে??
-# Certainly ;-) ; Try the following:
-# msgstr "মাত্রা"
-# msgstr "স্কেল" - কাঠের স্কেলকে "স্কেল" বা "রুলার" ছাড়া অন্য কিছু বলতে শুনি নাই
 #: ../libmatecanvas/mate-canvas-text.c:371
 msgid "Size of font, relative to default size"
 msgstr "ডিফল্টের আকারের তুলনায় ফন্টের মাপ"
 
-# msgstr "সাধারন আয়তনের তুলনায় ফন্টের মাপ"
-#
 #: ../libmatecanvas/mate-canvas-text.c:425
 #: ../libmatecanvas/mate-canvas-text.c:433
 #: ../libmatecanvas/mate-canvas-text.c:441
@@ -198,9 +160,6 @@ msgstr "রং"
 msgid "Text color, as string"
 msgstr "স্ট্রিং হিসেবে, লেখার রং"
 
-# msgstr "শব্দ-গুচ্ছ (স্ট্রিন্গ) হিসাবে লেখার রং"
-# আরেকটু সহজবোধ্য করে লেখা গেলে ভাল হয়
-# msgstr "লেখার রং'কে শব্দগুচ্ছ হিসেবে প্রকাশ"  -- এইটাও খুব একটা সহজবোধ্য হইছে বলে মনে হচ্ছে না ;-)
 #: ../libmatecanvas/mate-canvas-text.c:434
 msgid "Text color, as a GdkColor"
 msgstr "GdkColor হিসেবে, লেখার রং"
@@ -209,20 +168,14 @@ msgstr "GdkColor হিসেবে, লেখার রং"
 msgid "Text color, as an R/G/B/A combined integer"
 msgstr "R/G/B/A পূর্ণসংখ্যার সমষ্টি হিসেবে, লেখার রং"
 
-# msgstr "আর-জি-বি-এ নম্বরের সমষ্টি হিসাবে লেখার রং"
-#
 #: ../libmatecanvas/mate-canvas-text.c:455
 msgid "Text width"
 msgstr "লেখার প্রস্থ"
 
-# msgstr "লেখার প্রস্থ (চওড়াই)"
-#
 #: ../libmatecanvas/mate-canvas-text.c:456
 msgid "Width of the rendered text"
 msgstr "রেন্ডার করা লেখার প্রস্থ"
 
-# msgstr "দৃশ্যমান লেখার প্রস্থ (চওড়াই)"
-#
 #: ../libmatecanvas/mate-canvas-text.c:463
 msgid "Text height"
 msgstr "লেখার উচ্চতা"
@@ -235,17 +188,14 @@ msgstr "দৃশ্যমান লেখার উচ্চতা"
 msgid "Font family set"
 msgstr "ফন্ট ফ্যামিলি সেট"
 
-# msgstr "বিভিন্ন ফন্ট বর্গের/প্রজাতির/প্রকৃতির (???) সমষ্টি"
 #: ../libmatecanvas/mate-canvas-text.c:473
 msgid "Whether this tag affects the font family"
 msgstr "এই ট্যাগ (tag) ফন্ট  ফ্যামিলিকে প্রভাবিত করে কিনা"
 
-# বানান ভুল আছে। family'র অর্থ....
 #: ../libmatecanvas/mate-canvas-text.c:476
 msgid "Font style set"
 msgstr "ফন্ট শৈলী সেট"
 
-# msgstr "ফন্ট কায়দার (স্টাইল) সমষ্টি"
 #: ../libmatecanvas/mate-canvas-text.c:477
 msgid "Whether this tag affects the font style"
 msgstr "এই ট্যাগ ফন্ট শৈলীকে প্রভাবিত করে কিনা"
@@ -254,9 +204,6 @@ msgstr "এই ট্যাগ ফন্ট শৈলীকে প্রভা�
 msgid "Font variant set"
 msgstr "ফন্ট ভ্যারিয়েন্ট সেট"
 
-# msgstr "ফন্ট আকারভেদ সেট"
-# লোকে আমায় গনধোলাই দেবে  :-S
-# নিচেরটা লিখলে নাও দিতে পারে:
 #: ../libmatecanvas/mate-canvas-text.c:481
 msgid "Whether this tag affects the font variant"
 msgstr "এই ট্যাগ (tag) ফন্ট ভ্যারিয়েন্টকে  প্রভাবিত করে কিনা"
@@ -265,8 +212,6 @@ msgstr "এই ট্যাগ (tag) ফন্ট ভ্যারিয়েন্
 msgid "Font weight set"
 msgstr "ফন্ট আকৃতির সেট"
 
-# msgstr "ফন্ট ওজনের (ওয়েটের) সমষ্টি"
-# এর আগে এক জায়গায় Weight মানে লিখছো "আকৃতি"; সুতরাং -
 #: ../libmatecanvas/mate-canvas-text.c:485
 msgid "Whether this tag affects the font weight"
 msgstr "এই ট্যাগ ফন্ট আকৃতিকে প্রভাবিত করে কিনা"
@@ -291,20 +236,14 @@ msgstr "এই ট্যাগ ফন্ট আকারকে প্রভা�
 msgid "Rise set"
 msgstr "সমষ্টি স্থানান্তর"
 
-# msgstr "উত্থিত"
-# এটা বাদ দাও
-# হুম - এটা হবেটা কি ??
 #: ../libmatecanvas/mate-canvas-text.c:497
 msgid "Whether this tag affects the rise"
 msgstr "এই ট্যাগ স্থানান্তর কে প্রভাবিত করে কিনা"
 
-# msgstr "এই ট্যাগ (tag) ওঠাকে প্রভাবিত করে কিনা"
-# এটাও
 #: ../libmatecanvas/mate-canvas-text.c:500
 msgid "Strikethrough set"
 msgstr "অবচ্ছেদন রেখার সেট"
 
-# আগের মত
 #: ../libmatecanvas/mate-canvas-text.c:501
 msgid "Whether this tag affects strikethrough"
 msgstr "এই ট্যাগ অবচ্ছেদন রেখাকে প্রভাবিত করে কিনা"
@@ -325,173 +264,150 @@ msgstr "স্কেল সেট"
 msgid "Whether this tag affects font scaling"
 msgstr "এই ট্যাগ আকার পরিবর্তনকে প্রভাবিত করে কিনা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "যে লেখা প্রদর্শন করা হবে"
 
-# msgstr "দেখাবার জন্য যে লেখা"
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "X অবস্থান"
 
-# msgstr "এক্স অব্স্থান"
-#
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Y অবস্থান"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:234
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "প্রস্থ"
 
-# msgstr "প্রস্থ (চওড়াই)"
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "লেখার বাক্সের প্রস্থ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:242
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "উচ্চতা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "লেখার বাক্সের উচ্চতা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:250
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "সম্পাদনার যোগ্য"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "এই রিচ টেক্সট আইটেম কি সম্পাদনার যোগ্য?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:258
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "দৃশ্যমান"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "এই রিচ টেক্সট আইটেম কি দৃশ্যমান?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:266
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "কার্সর দৃশ্যমান"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "এই রিচ টেক্সট আইটেমে কি কার্সর দৃশ্যমান?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:274
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "কার্সর মিটিমিটি জ্বলা"
 
-# msgstr "কার্সার পিটপিট করছে"
-# খাইছে - ভালো লাগছে নাহ্  - কার্সার কি চোখ নাকি?
-# চোখের ঝামেলা এড়াইতে চাইলে "জ্বলছে নিভছে" ব্যবহার করতে পারো।
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "এই রিচ টেক্সট আইটেমে কি কার্সর মিটিমিটি জ্বলছে?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:282
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "উচ্চতা বৃদ্ধি করা হোক"
 
-# msgstr "উচ্চতা বাড়ন্ত হোক"
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "টেক্সট মাপসই না হলে কি টেক্সট বাক্সের উচ্চতা বৃদ্ধি করা হবে?"
 
-# msgstr "টেক্সট না আঁটলে কি টেক্সট বাক্সের উচ্চতা বাড়বে?"
-#
-#: ../libmatecanvas/mate-canvas-rich-text.c:290
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "মোড়ানো মোড"
 
-# Sure ? এই Wrap তো মনে হচ্ছে "Search wraped" এর Wrap; Wrapping Paper এর Wrap না
-# #যা আছে থাকুক - কনটেক্সট না দেখলে বোঝা যাবে না
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "বহু লাইন রেখার জন্য মোড়ানো মোড"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:299
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "উভয় দিকে প্রসারিত করা"
 
-# ??
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "উভয় দিকে প্রসারিত করার মোড"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:308
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "দিকবিন্যাস"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "টেক্সট দিকবিন্যাস"
 
-# msgstr "টেক্সটের দিক"
-# msgstr "যে দিকে ক্রমশঃ টেক্সট লেখা হবে" - নাকি "কার্সর আগাতে থাকবে" ?
-# প্রথমটা
-#: ../libmatecanvas/mate-canvas-rich-text.c:317
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "নোঙর"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "লেখার জন্য নোঙর বিন্দু"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:326
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "লাইনের উপরে পিক্সেলের সংখ্যা"
 
-# "C"
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "লাইনের উপরে যতোগুলো পিক্সেল রাখা হবে"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:335
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "লাইনের নিচে পিক্সেলের সংখ্যা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "লাইনের নিচে যতোগুলো পিক্সেল রাখা হবে"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:344
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "মোড়ানোর মধ্যেকার পিক্সেলের সংখ্যা"
 
-# "C"
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "মোড়ানোর মধ্যে রাখার জন্য পিক্সেলের সংখ্যা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:353
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "বামদিকের মার্জিন"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "বামদিকের মার্জিনে পিক্সেলের সংখ্যা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:362
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "ডানদিকের মার্জিন"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "ডানদিকের মার্জিনে পিক্সেলের সংখ্যা"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:371
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "ইনডেনটেশন"
 
-# msgstr "খাঁজ কাটা"
-# "C" - Indentation তো মার্জিন থেকে লেখার দূরত্ব; Dictionary অনুযায়ী "অবচ্ছেদন"
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "ইনডেনটেশনের জন্য পিক্সেলের সংখ্যা"
-
-#~ msgid "Font size in points"
-#~ msgstr "বিন্দুতে ফন্টের আকার"

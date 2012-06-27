@@ -1,42 +1,43 @@
-# translation of libmatecanvas.HEAD.kn.po to Kannada
+# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-#
+# 
+# Translators:
 # Shankar Prasad <svenkate@redhat.com>, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas.HEAD.kn\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2010-04-21 11:55+0530\n"
-"PO-Revision-Date: 2009-03-25 17:31+0530\n"
-"Last-Translator: Shankar Prasad <svenkate@redhat.com>\n"
-"Language-Team: Kannada <en@li.org>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:30+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Language: kn\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:218
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:226
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-#: ../libmatecanvas/mate-canvas.c:2051
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "ಆಂಟಿಅಲಿಯಾಸ್‌ ಮಾಡಲಾದ"
 
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "ಕ್ಯಾನ್ವಾಸಿನ ಆಂಟಿಅಲಿಯಾಸಿಂಗ್ ಕ್ರಮ."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:210
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "ಪಠ್ಯ"
 
@@ -104,9 +105,7 @@ msgstr "ಆಕ್ಷರ ಶೈಲಿಯ ಗಾತ್ರ"
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರ (PANGO_SCALE ನ ಗುಣಕವಾಗಿ, ಉದಾ. 12*PANGO_SCALE ವು ಒಂದು 12pt "
-"ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ)"
+msgstr "ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರ (PANGO_SCALE ನ ಗುಣಕವಾಗಿ, ಉದಾ. 12*PANGO_SCALE ವು ಒಂದು 12pt ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
@@ -114,8 +113,7 @@ msgstr "ಅಕ್ಷರಶೈಲಿಯ ಪಾಯಿಂಟುಗಳು"
 
 #: ../libmatecanvas/mate-canvas-text.c:330
 msgid "Font size in points (eg. 12 for a 12pt font size)"
-msgstr ""
-"ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರ ಪಾಯಿಂಟುಗಳಲ್ಲಿ (. 12 ಒಂದು 12pt ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ)"
+msgstr "ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರ ಪಾಯಿಂಟುಗಳಲ್ಲಿ (. 12 ಒಂದು 12pt ಅಕ್ಷರಶೈಲಿಯ ಗಾತ್ರವನ್ನು ಸೂಚಿಸುತ್ತದೆ)"
 
 #: ../libmatecanvas/mate-canvas-text.c:340
 msgid "Rise"
@@ -264,150 +262,150 @@ msgstr "ಅಳತೆಬದಲಾವಣೆ ಸೆಟ್"
 msgid "Whether this tag affects font scaling"
 msgstr "ಈ ಟ್ಯಾಗ್ ಅಕ್ಷರಶೈಲಿಯ ಅಳತೆಬದಲಾವಣೆಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆಯೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "ತೋರಿಸಬೇಕಿರುವ ಪಠ್ಯ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "X ಜಾಗ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Y ಜಾಗ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:234
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "ಅಗಲ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "ಪಠ್ಯ ಚೌಕದ ಅಗಲ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:242
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "ಎತ್ತರ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "ಪಠ್ಯ ಚೌಕದ ಎತ್ತರ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:250
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "ಸಂಸ್ಕರಿಸ ಬಹುದ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "ಸಮೃದ್ಧ(ರಿಚ್) ಪಠ್ಯ ಅಂಶವು ಸಂಪಾದಿಸುವಂತಿರಬೇಕೆ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:258
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "ಕಾಣಿಸುವಿಕೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "ಸಮೃದ್ಧ(ರಿಚ್) ಪಠ್ಯ ಅಂಶವು ಕಾಣಿಸುವಂತಿರಬೇಕೆ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:266
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "ಮೌಸ್ ಸೂಚಕ ಕಾಣಿಸುವಿಕೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "ಸಮೃದ್ಧ(ರಿಚ್) ಪಠ್ಯ ಅಂಶದಲ್ಲಿ ತೆರೆಸೂಚಕವು ಕಾಣಿಸುವಂತಿರಬೇಕೆ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:274
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "ಮಿಣುಕು ತೆರೆಸೂಚಕ (ಕರ್ಸರ್)"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "ಸಮೃದ್ಧ(ರಿಚ್) ಪಠ್ಯ ಅಂಶದಲ್ಲಿ ತೆರೆಸೂಚಕವು ಮಿಣುಕುತ್ತಿರಬೇಕೆ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:282
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "ಎತ್ತರವನ್ನು ವೃದ್ಧಿಸು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "ಪಠ್ಯವು ಹೊಂದಿಕೆಯಾಗದೆ ಇದ್ದಲ್ಲಿ ಪಠ್ಯ ಚೌಕದ ಎತ್ತರವು ಬೆಳೆಯಬೇಕೆ?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:290
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "ಆವರಿಕೆ ಕ್ರಮ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "ಬಹುಸಾಲಿನ ಪಠ್ಯದ ಆವರಿಕೆ ಕ್ರಮ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:299
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "ಸರಿಹೊಂದಿಕೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "ಸರಿಹೊಂದಿಕೆ ಸ್ಥಿತಿ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:308
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "ಧಿಕ್ಕು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "ಪಠ್ಯದ ದಿಕ್ಕು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:317
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "ಲಂಗರು(Anchor)"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "ಪಠ್ಯದ ಲಂಗರು ಬಿಂದು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:326
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "ಸಾಲುಗಳ ಮೇಲಿನ ಪಿಕ್ಸೆಲ್‌ಗಳು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "ಸಾಲುಗಳ ಮೇಲೆ ಇರಿಸಬೇಕಿರುವ ಪಿಕ್ಸೆಲ್‌ಗಳ ಸಂಖ್ಯೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:335
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "ಸಾಲುಗಳ ಕೆಳಗಿನ ಪಿಕ್ಸೆಲ್‌ಗಳು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "ಸಾಲುಗಳ ಕೆಳಗೆ ಇರಿಸಬೇಕಿರುವ ಪಿಕ್ಸೆಲ್‌ಗಳ ಸಂಖ್ಯೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:344
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "ಆವರಿಕೆಯ ಒಳಗಿನ ಪಿಕ್ಸೆಲ್‌ಗಳು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "ಆವರಿಕೆಯ ಒಳಗೆ ಇರಿಸಬೇಕಿರುವ ಪಿಕ್ಸೆಲ್‌ಗಳ ಸಂಖ್ಯೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:353
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "ಎಡ ಅಂಚು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "ಎಡ ಅಂಚಿನಲ್ಲಿ ಪಿಕ್ಸೆಲ್‌ಗಳ ಸಂಖ್ಯೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:362
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "ಬಲ ಅಂಚು"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "ಬಲ ಅಂಚಿನಲ್ಲಿನ ಪಿಕ್ಸೆಲ್‌ಗಳ ಸಂಖ್ಯೆ"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:371
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "ಇಂಡೆಂಟೇಶನ್"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "ಇಂಡೆಂಟೇಶನ್‌ಗೆ ಪಿಕ್ಸೆಲ್‌ಗಳ ಸಂಖ್ಯೆ"

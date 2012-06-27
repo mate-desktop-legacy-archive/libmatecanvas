@@ -1,49 +1,46 @@
-# Qırımtatarca (Qırım Türkçe) libmatecanvas.
-# This file is distributed under the same license as the libmatecanvas package.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 # Reşat SABIQ <tilde.birlik@gmail.com>, 2008, 2009.
 msgid ""
 msgstr ""
-"Project-Id-Version: libmatecanvas\n"
-"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
-"product=libmatecanvas&component=general\n"
-"POT-Creation-Date: 2009-03-13 21:15+0000\n"
-"PO-Revision-Date: 2009-03-15 23:18-0500\n"
-"Last-Translator: Reşat SABIQ <tilde.birlik@gmail.com>\n"
-"Language-Team: Qırımtatarca (Qırım Türkçesi) <tilde-birlik-tercime@lists."
-"sourceforge.net>\n"
+"Project-Id-Version: MATE Desktop Environment\n"
+"Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
+"POT-Creation-Date: 2012-02-20 17:23+0100\n"
+"PO-Revision-Date: 2012-02-20 16:28+0000\n"
+"Last-Translator: Stefano Karapetsas <stefano@karapetsas.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: crh\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 
-#: ../libmatecanvas/mate-canvas.c:1400 ../libmatecanvas/mate-canvas.c:1401
-#: ../libmatecanvas/mate-canvas-rich-text.c:218
+#: ../libmatecanvas/mate-canvas.c:1426 ../libmatecanvas/mate-canvas.c:1427
+#: ../libmatecanvas/mate-canvas-rich-text.c:224
 msgid "X"
 msgstr "X"
 
-#: ../libmatecanvas/mate-canvas.c:1407 ../libmatecanvas/mate-canvas.c:1408
-#: ../libmatecanvas/mate-canvas-rich-text.c:226
+#: ../libmatecanvas/mate-canvas.c:1433 ../libmatecanvas/mate-canvas.c:1434
+#: ../libmatecanvas/mate-canvas-rich-text.c:232
 msgid "Y"
 msgstr "Y"
 
-# tüklü
-#: ../libmatecanvas/mate-canvas.c:2052
+#: ../libmatecanvas/mate-canvas.c:2112
 msgid "Antialiased"
 msgstr "Tahallüssizleştirilgen (Tegizleştirilgen)"
 
-# tüklü
-#: ../libmatecanvas/mate-canvas.c:2053
+#: ../libmatecanvas/mate-canvas.c:2113
 msgid "The antialiasing mode of the canvas."
 msgstr "Bezniñ tahallüssizleştirilüv kelişi."
 
 #: ../libmatecanvas/mate-canvas-text.c:206
-#: ../libmatecanvas/mate-canvas-rich-text.c:210
+#: ../libmatecanvas/mate-canvas-rich-text.c:216
 msgid "Text"
 msgstr "Metin"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:207
 msgid "Text to render"
 msgstr "Qılınacaq metin"
@@ -80,7 +77,6 @@ msgstr "Urufat ailesi"
 msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
 msgstr "Urufat ailesiniñ ismi, meselâ Sans, Helvetica, Times, Monospace"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:276
 #: ../libmatecanvas/mate-canvas-text.c:277
 msgid "Font style"
@@ -105,25 +101,19 @@ msgstr "Urufat kerilmesi"
 msgid "Font size"
 msgstr "Urufat ölçüsi"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:319
 msgid ""
 "Font size (as a multiple of PANGO_SCALE, eg. 12*PANGO_SCALE for a 12pt font "
 "size)"
-msgstr ""
-"Urufat ölçüsi (PANGO_SCALE'niñ qatı olaraq, meselâ 12 noqtaliq (pt) urufat "
-"ölçüsi içün 12*PANGO_SCALE)"
+msgstr "Urufat ölçüsi (PANGO_SCALE'niñ qatı olaraq, meselâ 12 noqtaliq (pt) urufat ölçüsi içün 12*PANGO_SCALE)"
 
 #: ../libmatecanvas/mate-canvas-text.c:329
 msgid "Font points"
 msgstr "Urufat noqtaları"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:330
 msgid "Font size in points (eg. 12 for a 12pt font size)"
-msgstr ""
-"Noqtalar cınsından urufat ölçüsi (meselâ 12 noqtalıq (pt) urufat ölçüsi içün "
-"12)"
+msgstr "Noqtalar cınsından urufat ölçüsi (meselâ 12 noqtalıq (pt) urufat ölçüsi içün 12)"
 
 #: ../libmatecanvas/mate-canvas-text.c:340
 msgid "Rise"
@@ -132,10 +122,8 @@ msgstr "Yükseliş"
 #: ../libmatecanvas/mate-canvas-text.c:341
 msgid ""
 "Offset of text above the baseline (below the baseline if rise is negative)"
-msgstr ""
-"Metinniñ temel-sızıq üstünde çıqıntısı (eger menfiy ise temel-sızıq altında)"
+msgstr "Metinniñ temel-sızıq üstünde çıqıntısı (eger menfiy ise temel-sızıq altında)"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:351
 msgid "Strikethrough"
 msgstr "Üzerini sızuv"
@@ -144,7 +132,6 @@ msgstr "Üzerini sızuv"
 msgid "Whether to strike through the text"
 msgstr "Metinniñ üzeri sızılğan olıp olmaycağı"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:360
 msgid "Underline"
 msgstr "Altını sızuv"
@@ -195,7 +182,6 @@ msgstr "Metin yüksekligi"
 msgid "Height of the rendered text"
 msgstr "Qılınğan metinniñ yüksekligi"
 
-# tüklü
 #: ../libmatecanvas/mate-canvas-text.c:472
 msgid "Font family set"
 msgstr "Urufat ailesi kümesi"
@@ -276,150 +262,150 @@ msgstr "Miqyas kümesi"
 msgid "Whether this tag affects font scaling"
 msgstr "Bu nişannıñ urufat miqyaslamasına tesir etip etmegeni"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:211
+#: ../libmatecanvas/mate-canvas-rich-text.c:217
 msgid "Text to display"
 msgstr "Kösterilecek metin"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:219
+#: ../libmatecanvas/mate-canvas-rich-text.c:225
 msgid "X position"
 msgstr "X mevamı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:227
+#: ../libmatecanvas/mate-canvas-rich-text.c:233
 msgid "Y position"
 msgstr "Y mevamı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:234
+#: ../libmatecanvas/mate-canvas-rich-text.c:240
 msgid "Width"
 msgstr "Kenişlik"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:235
+#: ../libmatecanvas/mate-canvas-rich-text.c:241
 msgid "Width for text box"
 msgstr "Metin qutusı içün kenişlik"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:242
+#: ../libmatecanvas/mate-canvas-rich-text.c:248
 msgid "Height"
 msgstr "Yükseklik"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:243
+#: ../libmatecanvas/mate-canvas-rich-text.c:249
 msgid "Height for text box"
 msgstr "Metin qutusı içün yükseklik"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:250
+#: ../libmatecanvas/mate-canvas-rich-text.c:256
 msgid "Editable"
 msgstr "Tarir etilebilir"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:251
+#: ../libmatecanvas/mate-canvas-rich-text.c:257
 msgid "Is this rich text item editable?"
 msgstr "Bu zengin metin unsurı tarir etile bilemi?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:258
+#: ../libmatecanvas/mate-canvas-rich-text.c:264
 msgid "Visible"
 msgstr "Körünebilir"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:259
+#: ../libmatecanvas/mate-canvas-rich-text.c:265
 msgid "Is this rich text item visible?"
 msgstr "Bu zengin metin unsurı körüne bilirmi?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:266
+#: ../libmatecanvas/mate-canvas-rich-text.c:272
 msgid "Cursor Visible"
 msgstr "İmleç Körünebilir"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:267
+#: ../libmatecanvas/mate-canvas-rich-text.c:273
 msgid "Is the cursor visible in this rich text item?"
 msgstr "Bu zengin metin unsurında imleç körüne bilirmi?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:274
+#: ../libmatecanvas/mate-canvas-rich-text.c:280
 msgid "Cursor Blink"
 msgstr "İmleç Qıpması"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:275
+#: ../libmatecanvas/mate-canvas-rich-text.c:281
 msgid "Does the cursor blink in this rich text item?"
 msgstr "Bu zengin metin unsurında imleç qıparmı?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:282
+#: ../libmatecanvas/mate-canvas-rich-text.c:288
 msgid "Grow Height"
 msgstr "Yükseklik Ösüvi"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:283
+#: ../libmatecanvas/mate-canvas-rich-text.c:289
 msgid "Should the text box height grow if the text does not fit?"
 msgstr "Metin sığmağanda bu metin qutusınıñ yüksekligi össünmi?"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:290
+#: ../libmatecanvas/mate-canvas-rich-text.c:296
 msgid "Wrap Mode"
 msgstr "Sarma Kelişi"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:291
+#: ../libmatecanvas/mate-canvas-rich-text.c:297
 msgid "Wrap mode for multiline text"
 msgstr "Çoq-satırlı metin içün sarma kelişi"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:299
+#: ../libmatecanvas/mate-canvas-rich-text.c:305
 msgid "Justification"
 msgstr "Yaslandırma"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:300
+#: ../libmatecanvas/mate-canvas-rich-text.c:306
 msgid "Justification mode"
 msgstr "Yaslandırma kelişi"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:308
+#: ../libmatecanvas/mate-canvas-rich-text.c:314
 msgid "Direction"
 msgstr "Yöneliş"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:309
+#: ../libmatecanvas/mate-canvas-rich-text.c:315
 msgid "Text direction"
 msgstr "Metin yönelişi"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:317
+#: ../libmatecanvas/mate-canvas-rich-text.c:323
 msgid "Anchor"
 msgstr "Lenger"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:318
+#: ../libmatecanvas/mate-canvas-rich-text.c:324
 msgid "Anchor point for text"
 msgstr "Metin içün lenger noqtası"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:326
+#: ../libmatecanvas/mate-canvas-rich-text.c:332
 msgid "Pixels Above Lines"
 msgstr "Satır Üstündeki Piksel Sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:327
+#: ../libmatecanvas/mate-canvas-rich-text.c:333
 msgid "Number of pixels to put above lines"
 msgstr "Satırlar üstünde qoyulacaq piksel sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:335
+#: ../libmatecanvas/mate-canvas-rich-text.c:341
 msgid "Pixels Below Lines"
 msgstr "Satır Altındaki Piksel Sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:336
+#: ../libmatecanvas/mate-canvas-rich-text.c:342
 msgid "Number of pixels to put below lines"
 msgstr "Satırlar altında qoyulacaq piksel sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:344
+#: ../libmatecanvas/mate-canvas-rich-text.c:350
 msgid "Pixels Inside Wrap"
 msgstr "Sarma İçindeki Piksel Sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:345
+#: ../libmatecanvas/mate-canvas-rich-text.c:351
 msgid "Number of pixels to put inside the wrap"
 msgstr "Sarma içinde qoyulacaq piksel sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:353
+#: ../libmatecanvas/mate-canvas-rich-text.c:359
 msgid "Left Margin"
 msgstr "Sol Kenar"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:354
+#: ../libmatecanvas/mate-canvas-rich-text.c:360
 msgid "Number of pixels in the left margin"
 msgstr "Sol kenardaki piksel sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:362
+#: ../libmatecanvas/mate-canvas-rich-text.c:368
 msgid "Right Margin"
 msgstr "Sağ Kenar"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:363
+#: ../libmatecanvas/mate-canvas-rich-text.c:369
 msgid "Number of pixels in the right margin"
 msgstr "Sağ kenardaki piksel sayısı"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:371
+#: ../libmatecanvas/mate-canvas-rich-text.c:377
 msgid "Indentation"
 msgstr "Kirintileme"
 
-#: ../libmatecanvas/mate-canvas-rich-text.c:372
+#: ../libmatecanvas/mate-canvas-rich-text.c:378
 msgid "Number of pixels for indentation"
 msgstr "Kirintileme içün piksel sayısı"
