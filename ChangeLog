@@ -1,3 +1,119 @@
+commit aa90dd0b158d88a7dbf97ff4a1bee065fc50331c
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Wed Jun 27 16:30:00 2012 +0200
+
+    sync translations with transifex
+
+ po/am.po          |  243 +++++++++++++--------------
+ po/ar.po          |  122 +++++++-------
+ po/as.po          |  121 +++++++-------
+ po/ast.po         |  124 +++++++-------
+ po/az.po          |  243 +++++++++++++--------------
+ po/be.po          |  251 ++++++++++++++--------------
+ po/bg.po          |  120 +++++++-------
+ po/bn.po          |  204 +++++++----------------
+ po/bn_IN.po       |  203 +++++++----------------
+ po/br.po          |  123 +++++++-------
+ po/bs.po          |  249 ++++++++++++++--------------
+ po/ca.po          |  127 +++++++-------
+ po/ca@valencia.po |  128 +++++++--------
+ po/crh.po         |  134 +++++++--------
+ po/cs.po          |  123 +++++++-------
+ po/cy.po          |  146 +++++++----------
+ po/da.po          |  117 +++++++------
+ po/de.po          |  126 +++++++-------
+ po/dz.po          |  127 +++++++-------
+ po/el.po          |  152 ++++++++---------
+ po/en_CA.po       |  118 +++++++-------
+ po/en_GB.po       |  126 +++++++-------
+ po/eo.po          |  123 +++++++-------
+ po/es.po          |  126 +++++++-------
+ po/et.po          |  125 +++++++-------
+ po/eu.po          |  127 +++++++-------
+ po/fa.po          |  245 +++++++++++++--------------
+ po/fi.po          |  124 +++++++-------
+ po/fr.po          |  131 +++++++--------
+ po/ga.po          |  240 ++++++++++++++-------------
+ po/gl.po          |  130 +++++++--------
+ po/gu.po          |  190 +++++++--------------
+ po/he.po          |  119 +++++++-------
+ po/hi.po          |  182 +++++++--------------
+ po/hr.po          |  122 +++++++-------
+ po/hu.po          |  125 +++++++-------
+ po/id.po          |  130 +++++++--------
+ po/is.po          |  241 ++++++++++++++-------------
+ po/it.po          |  122 +++++++-------
+ po/ja.po          |  123 +++++++-------
+ po/ka.po          |  117 +++++++------
+ po/kn.po          |  116 +++++++------
+ po/ko.po          |  109 +++++++------
+ po/ku.po          |  237 ++++++++++++++-------------
+ po/li.po          |  256 +++++++++++++++--------------
+ po/lt.po          |  123 +++++++-------
+ po/lv.po          |  125 +++++++-------
+ po/mai.po         |  119 +++++++-------
+ po/mg.po          |  129 +++++++--------
+ po/mk.po          |  124 +++++++-------
+ po/ml.po          |  132 +++++++--------
+ po/mn.po          |  119 +++++++-------
+ po/mr.po          |  114 ++++++-------
+ po/ms.po          |  242 ++++++++++++++-------------
+ po/nb.po          |  116 ++++++-------
+ po/ne.po          |  121 +++++++-------
+ po/nl.po          |  131 +++++++--------
+ po/nn.po          |  120 +++++++-------
+ po/oc.po          |  115 +++++++------
+ po/or.po          |  123 +++++++-------
+ po/pa.po          |  119 +++++++-------
+ po/pl.po          |  136 +++++++--------
+ po/pt.po          |  255 ++++++++++++++---------------
+ po/pt_BR.po       |  122 +++++++-------
+ po/ro.po          |  119 +++++++-------
+ po/ru.po          |  122 +++++++-------
+ po/rw.po          |  472 ++++++++++++++++++++++-------------------------------
+ po/sk.po          |  118 +++++++-------
+ po/sl.po          |  132 +++++++--------
+ po/sq.po          |  129 +++++++--------
+ po/sr.po          |  128 +++++++--------
+ po/sr@latin.po    |  128 +++++++--------
+ po/sv.po          |  128 +++++++--------
+ po/ta.po          |  188 +++++++--------------
+ po/te.po          |  118 +++++++-------
+ po/th.po          |  114 ++++++-------
+ po/tr.po          |  123 +++++++-------
+ po/tt.po          |  241 ++++++++++++++-------------
+ po/uk.po          |  121 +++++++-------
+ po/vi.po          |  120 +++++++-------
+ po/wa.po          |  254 ++++++++++++++--------------
+ po/xh.po          |  249 ++++++++++++++--------------
+ po/yi.po          |  249 ++++++++++++++--------------
+ po/zh_CN.po       |  120 +++++++-------
+ po/zh_HK.po       |  114 ++++++-------
+ po/zh_TW.po       |  114 ++++++-------
+ 86 files changed, 6280 insertions(+), 6893 deletions(-)
+
+commit cf87b20020d7a60e9712aaeaa6c0688d7a918979
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Wed Jun 27 16:29:52 2012 +0200
+
+    add po gnome copyrights file
+
+ po/gnome-copyrights.txt |  988 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 988 insertions(+)
+
+commit adfc8e138c66972bb57ce6c8a3a7e9b62b8da066
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Mon Feb 20 17:32:24 2012 +0100
+
+    fix things for 1.2
+
+ AUTHORS      |    1 +
+ ChangeLog    |  375 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+ README       |    2 +
+ autogen.sh   |    4 +-
+ configure.in |    4 +-
+ 5 files changed, 380 insertions(+), 6 deletions(-)
+
 commit 5fb34ef0a62806042f25b2b06ad2fb8d047c74b1
 Author: Perberos <perberos@gmail.com>
 Date:   Tue Jan 24 15:38:17 2012 -0300
@@ -5,7 +121,7 @@ Date:   Tue Jan 24 15:38:17 2012 -0300
     changing pkgbuild source method
 
  distro/archlinux/PKGBUILD |    8 ++++----
- 1 files changed, 4 insertions(+), 4 deletions(-)
+ 1 file changed, 4 insertions(+), 4 deletions(-)
 
 commit fb022666ce25bdd2386cb92b4aa02d93a66120f3
 Merge: e914c9b 982d865
@@ -24,7 +140,7 @@ Date:   Mon Jan 16 22:58:10 2012 +0100
     	from http://git.gnome.org/browse/libgnomecanvas/commit/?id=52a529cc6b1cedb2b106969592fff43ce9c52146
 
  libmatecanvas/mate-canvas.c |   23 +++++++++++++++++++++--
- 1 files changed, 21 insertions(+), 2 deletions(-)
+ 1 file changed, 21 insertions(+), 2 deletions(-)
 
 commit 38947fe658863b7899c07965b92c9a699eeb2c0b
 Author: Benjamin Valentin <benpicco@zedat.fu-berlin.de>
@@ -34,7 +150,7 @@ Date:   Mon Jan 16 22:55:39 2012 +0100
     	from http://git.gnome.org/browse/libgnomecanvas/commit/?id=92fb2c4d2022713acec4cb613a24979d6580b0da
 
  configure.in |    2 +-
- 1 files changed, 1 insertions(+), 1 deletions(-)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 commit e914c9b5281449dac5c21bc235f3c4cbb45bf73d
 Author: Steve Zesch <stevezesch2@gmail.com>
@@ -65,7 +181,7 @@ Date:   Thu Dec 8 12:51:39 2011 -0300
     removing autogenerated file
 
  ltmain.sh | 9655 -------------------------------------------------------------
- 1 files changed, 0 insertions(+), 9655 deletions(-)
+ 1 file changed, 9655 deletions(-)
 
 commit 05eab654575be71447af9046efd70a4f28321c68
 Merge: 7e10c28 0404d9c
@@ -84,7 +200,7 @@ Date:   Fri Dec 2 01:46:14 2011 +0100
 
  AUTHORS                   |    2 +
  ChangeLog                 | 2576 +--------------------------------------------
- NEWS                      |  389 +-------
+ NEWS                      |  389 +------
  configure.in              |    4 +-
  distro/archlinux/PKGBUILD |    2 +-
  distro/ubuntu/build       |    2 +-
@@ -115,7 +231,7 @@ Date:   Fri Dec 2 01:39:54 2011 +0100
  mkinstalldirs              |  162 -
  po/Makefile.in.in          |  217 -
  tests/Makefile.in          |  624 --
- 19 files changed, 0 insertions(+), 38173 deletions(-)
+ 19 files changed, 38173 deletions(-)
 
 commit 7e10c281e4f1f8c0dab6c8ce975ea65b9cba3e34
 Author: Perberos <perberos@gmail.com>
@@ -371,4 +487,4 @@ Date:   Thu Dec 1 20:21:13 2011 -0300
  tests/Makefile.in                                  |  624 +
  tests/test-libglade-canvas.c                       |   33 +
  tests/test-libglade-canvas.glade                   |  125 +
- 248 files changed, 125860 insertions(+), 0 deletions(-)
+ 248 files changed, 125860 insertions(+)
